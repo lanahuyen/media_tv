@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Streaming Platforms Analysis</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script> <!-- Include Vega-Embed -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> <!-- Include Plotly -->
+</head>
+<body>
+    <h1>Streaming Platforms Analysis</h1>
+    
+    <!-- Existing Interactive Genre Chart -->
+    <h2>Trends in Selected Genre Over Time</h2>
+    <div id="genre-chart"></div>
+    
+    <!-- New Section for IMDb Genre Distribution -->
+    <h2>IMDb Genre Distribution</h2>
+    <div id="imdb-genres-plot-container"></div>
+    
+    <script>
+        // JavaScript to fetch and render the Altair chart (Existing Code)
+        fetch('/get-plot/interactive-genres')
+            .then(response => response.json())
+            .then(chartSpec => {
+                // Use Vega-Embed to render the chart
+                vegaEmbed('#genre-chart', chartSpec);
+            })
+            .catch(error => console.error('Error loading the chart:', error));
+
+        // New JavaScript to fetch and render the IMDb Genres Plot (Plotly)
+        fetch('/get-plot/imdb-genres')
+            .then(response => response.json())
+            .then(data => {
+                Plotly.newPlot('imdb-genres-plot-container', data.data, data.layout);
+            })
+            .catch(error => console.error('Error loading the IMDb genres plot:', error));
+    </script>
+</body>
+</html>
