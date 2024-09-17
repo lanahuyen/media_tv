@@ -1,0 +1,6993 @@
+[{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cad"
+  },
+  "": 0,
+  "Streaming Service": "Netflix",
+  "Date": "7/2011",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cae"
+  },
+  "": 1,
+  "Streaming Service": "Netflix",
+  "Date": "8/2011",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229caf"
+  },
+  "": 2,
+  "Streaming Service": "Netflix",
+  "Date": "9/2011",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cb0"
+  },
+  "": 3,
+  "Streaming Service": "Netflix",
+  "Date": "10/2011",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cb1"
+  },
+  "": 4,
+  "Streaming Service": "Netflix",
+  "Date": "11/2011",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cb2"
+  },
+  "": 5,
+  "Streaming Service": "Netflix",
+  "Date": "12/2011",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cb3"
+  },
+  "": 6,
+  "Streaming Service": "Netflix",
+  "Date": "1/2012",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cb4"
+  },
+  "": 7,
+  "Streaming Service": "Netflix",
+  "Date": "2/2012",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cb5"
+  },
+  "": 8,
+  "Streaming Service": "Netflix",
+  "Date": "3/2012",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cb6"
+  },
+  "": 9,
+  "Streaming Service": "Netflix",
+  "Date": "4/2012",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cb7"
+  },
+  "": 10,
+  "Streaming Service": "Netflix",
+  "Date": "5/2012",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cb8"
+  },
+  "": 11,
+  "Streaming Service": "Netflix",
+  "Date": "6/2012",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cb9"
+  },
+  "": 12,
+  "Streaming Service": "Netflix",
+  "Date": "7/2012",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cba"
+  },
+  "": 13,
+  "Streaming Service": "Netflix",
+  "Date": "8/2012",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cbb"
+  },
+  "": 14,
+  "Streaming Service": "Netflix",
+  "Date": "9/2012",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cbc"
+  },
+  "": 15,
+  "Streaming Service": "Netflix",
+  "Date": "10/2012",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cbd"
+  },
+  "": 16,
+  "Streaming Service": "Netflix",
+  "Date": "11/2012",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cbe"
+  },
+  "": 17,
+  "Streaming Service": "Netflix",
+  "Date": "12/2012",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cbf"
+  },
+  "": 18,
+  "Streaming Service": "Netflix",
+  "Date": "1/2013",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cc0"
+  },
+  "": 19,
+  "Streaming Service": "Netflix",
+  "Date": "2/2013",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cc1"
+  },
+  "": 20,
+  "Streaming Service": "Netflix",
+  "Date": "3/2013",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cc2"
+  },
+  "": 21,
+  "Streaming Service": "Netflix",
+  "Date": "4/2013",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cc3"
+  },
+  "": 22,
+  "Streaming Service": "Netflix",
+  "Date": "5/2013",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cc4"
+  },
+  "": 23,
+  "Streaming Service": "Netflix",
+  "Date": "6/2013",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cc5"
+  },
+  "": 24,
+  "Streaming Service": "Netflix",
+  "Date": "7/2013",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cc6"
+  },
+  "": 25,
+  "Streaming Service": "Netflix",
+  "Date": "8/2013",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cc7"
+  },
+  "": 26,
+  "Streaming Service": "Netflix",
+  "Date": "9/2013",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cc8"
+  },
+  "": 27,
+  "Streaming Service": "Netflix",
+  "Date": "10/2013",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cc9"
+  },
+  "": 28,
+  "Streaming Service": "Netflix",
+  "Date": "11/2013",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cca"
+  },
+  "": 29,
+  "Streaming Service": "Netflix",
+  "Date": "12/2013",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ccb"
+  },
+  "": 30,
+  "Streaming Service": "Netflix",
+  "Date": "1/2014",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ccc"
+  },
+  "": 31,
+  "Streaming Service": "Netflix",
+  "Date": "2/2014",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ccd"
+  },
+  "": 32,
+  "Streaming Service": "Netflix",
+  "Date": "3/2014",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cce"
+  },
+  "": 33,
+  "Streaming Service": "Netflix",
+  "Date": "4/2014",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ccf"
+  },
+  "": 34,
+  "Streaming Service": "Netflix",
+  "Date": "5/2014",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cd0"
+  },
+  "": 35,
+  "Streaming Service": "Netflix",
+  "Date": "6/2014",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cd1"
+  },
+  "": 36,
+  "Streaming Service": "Netflix",
+  "Date": "7/2014",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cd2"
+  },
+  "": 37,
+  "Streaming Service": "Netflix",
+  "Date": "8/2014",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cd3"
+  },
+  "": 38,
+  "Streaming Service": "Netflix",
+  "Date": "9/2014",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cd4"
+  },
+  "": 39,
+  "Streaming Service": "Netflix",
+  "Date": "10/2014",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cd5"
+  },
+  "": 40,
+  "Streaming Service": "Netflix",
+  "Date": "11/2014",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cd6"
+  },
+  "": 41,
+  "Streaming Service": "Netflix",
+  "Date": "12/2014",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cd7"
+  },
+  "": 42,
+  "Streaming Service": "Netflix",
+  "Date": "1/2015",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cd8"
+  },
+  "": 43,
+  "Streaming Service": "Netflix",
+  "Date": "2/2015",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cd9"
+  },
+  "": 44,
+  "Streaming Service": "Netflix",
+  "Date": "3/2015",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cda"
+  },
+  "": 45,
+  "Streaming Service": "Netflix",
+  "Date": "4/2015",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cdb"
+  },
+  "": 46,
+  "Streaming Service": "Netflix",
+  "Date": "5/2015",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cdc"
+  },
+  "": 47,
+  "Streaming Service": "Netflix",
+  "Date": "6/2015",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cdd"
+  },
+  "": 48,
+  "Streaming Service": "Netflix",
+  "Date": "7/2015",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cde"
+  },
+  "": 49,
+  "Streaming Service": "Netflix",
+  "Date": "8/2015",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cdf"
+  },
+  "": 50,
+  "Streaming Service": "Netflix",
+  "Date": "9/2015",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ce0"
+  },
+  "": 51,
+  "Streaming Service": "Netflix",
+  "Date": "10/2015",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ce1"
+  },
+  "": 52,
+  "Streaming Service": "Netflix",
+  "Date": "11/2015",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ce2"
+  },
+  "": 53,
+  "Streaming Service": "Netflix",
+  "Date": "12/2015",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ce3"
+  },
+  "": 54,
+  "Streaming Service": "Netflix",
+  "Date": "1/2016",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ce4"
+  },
+  "": 55,
+  "Streaming Service": "Netflix",
+  "Date": "2/2016",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ce5"
+  },
+  "": 56,
+  "Streaming Service": "Netflix",
+  "Date": "3/2016",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ce6"
+  },
+  "": 57,
+  "Streaming Service": "Netflix",
+  "Date": "4/2016",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ce7"
+  },
+  "": 58,
+  "Streaming Service": "Netflix",
+  "Date": "5/2016",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ce8"
+  },
+  "": 59,
+  "Streaming Service": "Netflix",
+  "Date": "6/2016",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ce9"
+  },
+  "": 60,
+  "Streaming Service": "Netflix",
+  "Date": "7/2016",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cea"
+  },
+  "": 61,
+  "Streaming Service": "Netflix",
+  "Date": "8/2016",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ceb"
+  },
+  "": 62,
+  "Streaming Service": "Netflix",
+  "Date": "9/2016",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cec"
+  },
+  "": 63,
+  "Streaming Service": "Netflix",
+  "Date": "10/2016",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ced"
+  },
+  "": 64,
+  "Streaming Service": "Netflix",
+  "Date": "11/2016",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cee"
+  },
+  "": 65,
+  "Streaming Service": "Netflix",
+  "Date": "12/2016",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cef"
+  },
+  "": 66,
+  "Streaming Service": "Netflix",
+  "Date": "1/2017",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cf0"
+  },
+  "": 67,
+  "Streaming Service": "Netflix",
+  "Date": "2/2017",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cf1"
+  },
+  "": 68,
+  "Streaming Service": "Netflix",
+  "Date": "3/2017",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cf2"
+  },
+  "": 69,
+  "Streaming Service": "Netflix",
+  "Date": "4/2017",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cf3"
+  },
+  "": 70,
+  "Streaming Service": "Netflix",
+  "Date": "5/2017",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cf4"
+  },
+  "": 71,
+  "Streaming Service": "Netflix",
+  "Date": "6/2017",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cf5"
+  },
+  "": 72,
+  "Streaming Service": "Netflix",
+  "Date": "7/2017",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cf6"
+  },
+  "": 73,
+  "Streaming Service": "Netflix",
+  "Date": "8/2017",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cf7"
+  },
+  "": 74,
+  "Streaming Service": "Netflix",
+  "Date": "9/2017",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cf8"
+  },
+  "": 75,
+  "Streaming Service": "Netflix",
+  "Date": "10/2017",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cf9"
+  },
+  "": 76,
+  "Streaming Service": "Netflix",
+  "Date": "11/2017",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cfa"
+  },
+  "": 77,
+  "Streaming Service": "Netflix",
+  "Date": "12/2017",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cfb"
+  },
+  "": 78,
+  "Streaming Service": "Netflix",
+  "Date": "1/2018",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cfc"
+  },
+  "": 79,
+  "Streaming Service": "Netflix",
+  "Date": "2/2018",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cfd"
+  },
+  "": 80,
+  "Streaming Service": "Netflix",
+  "Date": "3/2018",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cfe"
+  },
+  "": 81,
+  "Streaming Service": "Netflix",
+  "Date": "4/2018",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229cff"
+  },
+  "": 82,
+  "Streaming Service": "Netflix",
+  "Date": "5/2018",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d00"
+  },
+  "": 83,
+  "Streaming Service": "Netflix",
+  "Date": "6/2018",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d01"
+  },
+  "": 84,
+  "Streaming Service": "Netflix",
+  "Date": "7/2018",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d02"
+  },
+  "": 85,
+  "Streaming Service": "Netflix",
+  "Date": "8/2018",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d03"
+  },
+  "": 86,
+  "Streaming Service": "Netflix",
+  "Date": "9/2018",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d04"
+  },
+  "": 87,
+  "Streaming Service": "Netflix",
+  "Date": "10/2018",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d05"
+  },
+  "": 88,
+  "Streaming Service": "Netflix",
+  "Date": "11/2018",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d06"
+  },
+  "": 89,
+  "Streaming Service": "Netflix",
+  "Date": "12/2018",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d07"
+  },
+  "": 90,
+  "Streaming Service": "Netflix",
+  "Date": "1/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d08"
+  },
+  "": 91,
+  "Streaming Service": "Netflix",
+  "Date": "2/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d09"
+  },
+  "": 92,
+  "Streaming Service": "Netflix",
+  "Date": "3/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d0a"
+  },
+  "": 93,
+  "Streaming Service": "Netflix",
+  "Date": "4/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d0b"
+  },
+  "": 94,
+  "Streaming Service": "Netflix",
+  "Date": "5/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d0c"
+  },
+  "": 95,
+  "Streaming Service": "Netflix",
+  "Date": "6/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d0d"
+  },
+  "": 96,
+  "Streaming Service": "Netflix",
+  "Date": "7/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d0e"
+  },
+  "": 97,
+  "Streaming Service": "Netflix",
+  "Date": "8/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d0f"
+  },
+  "": 98,
+  "Streaming Service": "Netflix",
+  "Date": "9/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d10"
+  },
+  "": 99,
+  "Streaming Service": "Netflix",
+  "Date": "10/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d11"
+  },
+  "": 100,
+  "Streaming Service": "Netflix",
+  "Date": "11/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d12"
+  },
+  "": 101,
+  "Streaming Service": "Netflix",
+  "Date": "12/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d13"
+  },
+  "": 102,
+  "Streaming Service": "Netflix",
+  "Date": "1/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d14"
+  },
+  "": 103,
+  "Streaming Service": "Netflix",
+  "Date": "2/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d15"
+  },
+  "": 104,
+  "Streaming Service": "Netflix",
+  "Date": "3/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d16"
+  },
+  "": 105,
+  "Streaming Service": "Netflix",
+  "Date": "4/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d17"
+  },
+  "": 106,
+  "Streaming Service": "Netflix",
+  "Date": "5/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d18"
+  },
+  "": 107,
+  "Streaming Service": "Netflix",
+  "Date": "6/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d19"
+  },
+  "": 108,
+  "Streaming Service": "Netflix",
+  "Date": "7/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d1a"
+  },
+  "": 109,
+  "Streaming Service": "Netflix",
+  "Date": "8/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d1b"
+  },
+  "": 110,
+  "Streaming Service": "Netflix",
+  "Date": "9/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d1c"
+  },
+  "": 111,
+  "Streaming Service": "Netflix",
+  "Date": "10/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d1d"
+  },
+  "": 112,
+  "Streaming Service": "Netflix",
+  "Date": "11/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d1e"
+  },
+  "": 113,
+  "Streaming Service": "Netflix",
+  "Date": "12/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d1f"
+  },
+  "": 114,
+  "Streaming Service": "Netflix",
+  "Date": "1/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d20"
+  },
+  "": 115,
+  "Streaming Service": "Netflix",
+  "Date": "2/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d21"
+  },
+  "": 116,
+  "Streaming Service": "Netflix",
+  "Date": "3/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d22"
+  },
+  "": 117,
+  "Streaming Service": "Netflix",
+  "Date": "4/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d23"
+  },
+  "": 118,
+  "Streaming Service": "Netflix",
+  "Date": "5/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d24"
+  },
+  "": 119,
+  "Streaming Service": "Netflix",
+  "Date": "6/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d25"
+  },
+  "": 120,
+  "Streaming Service": "Netflix",
+  "Date": "7/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d26"
+  },
+  "": 121,
+  "Streaming Service": "Netflix",
+  "Date": "8/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d27"
+  },
+  "": 122,
+  "Streaming Service": "Netflix",
+  "Date": "9/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d28"
+  },
+  "": 123,
+  "Streaming Service": "Netflix",
+  "Date": "10/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d29"
+  },
+  "": 124,
+  "Streaming Service": "Netflix",
+  "Date": "11/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d2a"
+  },
+  "": 125,
+  "Streaming Service": "Netflix",
+  "Date": "12/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d2b"
+  },
+  "": 126,
+  "Streaming Service": "Netflix",
+  "Date": "1/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d2c"
+  },
+  "": 127,
+  "Streaming Service": "Netflix",
+  "Date": "2/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d2d"
+  },
+  "": 128,
+  "Streaming Service": "Netflix",
+  "Date": "3/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d2e"
+  },
+  "": 129,
+  "Streaming Service": "Netflix",
+  "Date": "4/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d2f"
+  },
+  "": 130,
+  "Streaming Service": "Netflix",
+  "Date": "5/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d30"
+  },
+  "": 131,
+  "Streaming Service": "Netflix",
+  "Date": "6/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d31"
+  },
+  "": 132,
+  "Streaming Service": "Netflix",
+  "Date": "7/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d32"
+  },
+  "": 133,
+  "Streaming Service": "Netflix",
+  "Date": "8/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d33"
+  },
+  "": 134,
+  "Streaming Service": "Netflix",
+  "Date": "9/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d34"
+  },
+  "": 135,
+  "Streaming Service": "Netflix",
+  "Date": "10/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d35"
+  },
+  "": 136,
+  "Streaming Service": "Netflix",
+  "Date": "11/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d36"
+  },
+  "": 137,
+  "Streaming Service": "Netflix",
+  "Date": "12/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d37"
+  },
+  "": 138,
+  "Streaming Service": "Netflix",
+  "Date": "1/2023",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d38"
+  },
+  "": 139,
+  "Streaming Service": "Netflix",
+  "Date": "2/2023",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d39"
+  },
+  "": 140,
+  "Streaming Service": "Netflix",
+  "Date": "3/2023",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d3a"
+  },
+  "": 141,
+  "Streaming Service": "Netflix",
+  "Date": "4/2023",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d3b"
+  },
+  "": 142,
+  "Streaming Service": "Netflix",
+  "Date": "5/2023",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d3c"
+  },
+  "": 143,
+  "Streaming Service": "Netflix",
+  "Date": "6/2023",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d3d"
+  },
+  "": 144,
+  "Streaming Service": "Netflix",
+  "Date": "7/2023",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d3e"
+  },
+  "": 145,
+  "Streaming Service": "Netflix",
+  "Date": "8/2023",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d3f"
+  },
+  "": 146,
+  "Streaming Service": "Netflix",
+  "Date": "9/2023",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d40"
+  },
+  "": 147,
+  "Streaming Service": "Netflix",
+  "Date": "10/2023",
+  "Subscription Price": 15.49
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d41"
+  },
+  "": 148,
+  "Streaming Service": "Netflix",
+  "Date": "11/2023",
+  "Subscription Price": 15.49
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d42"
+  },
+  "": 149,
+  "Streaming Service": "Netflix",
+  "Date": "12/2023",
+  "Subscription Price": 15.49
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d43"
+  },
+  "": 150,
+  "Streaming Service": "Netflix",
+  "Date": "1/2024",
+  "Subscription Price": 15.49
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d44"
+  },
+  "": 151,
+  "Streaming Service": "Disney+",
+  "Date": "11/2019",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d45"
+  },
+  "": 152,
+  "Streaming Service": "Disney+",
+  "Date": "12/2019",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d46"
+  },
+  "": 153,
+  "Streaming Service": "Disney+",
+  "Date": "1/2020",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d47"
+  },
+  "": 154,
+  "Streaming Service": "Disney+",
+  "Date": "2/2020",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d48"
+  },
+  "": 155,
+  "Streaming Service": "Disney+",
+  "Date": "3/2020",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d49"
+  },
+  "": 156,
+  "Streaming Service": "Disney+",
+  "Date": "4/2020",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d4a"
+  },
+  "": 157,
+  "Streaming Service": "Disney+",
+  "Date": "5/2020",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d4b"
+  },
+  "": 158,
+  "Streaming Service": "Disney+",
+  "Date": "6/2020",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d4c"
+  },
+  "": 159,
+  "Streaming Service": "Disney+",
+  "Date": "7/2020",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d4d"
+  },
+  "": 160,
+  "Streaming Service": "Disney+",
+  "Date": "8/2020",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d4e"
+  },
+  "": 161,
+  "Streaming Service": "Disney+",
+  "Date": "9/2020",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d4f"
+  },
+  "": 162,
+  "Streaming Service": "Disney+",
+  "Date": "10/2020",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d50"
+  },
+  "": 163,
+  "Streaming Service": "Disney+",
+  "Date": "11/2020",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d51"
+  },
+  "": 164,
+  "Streaming Service": "Disney+",
+  "Date": "12/2020",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d52"
+  },
+  "": 165,
+  "Streaming Service": "Disney+",
+  "Date": "1/2021",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d53"
+  },
+  "": 166,
+  "Streaming Service": "Disney+",
+  "Date": "2/2021",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d54"
+  },
+  "": 167,
+  "Streaming Service": "Disney+",
+  "Date": "3/2021",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d55"
+  },
+  "": 168,
+  "Streaming Service": "Disney+",
+  "Date": "4/2021",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d56"
+  },
+  "": 169,
+  "Streaming Service": "Disney+",
+  "Date": "5/2021",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d57"
+  },
+  "": 170,
+  "Streaming Service": "Disney+",
+  "Date": "6/2021",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d58"
+  },
+  "": 171,
+  "Streaming Service": "Disney+",
+  "Date": "7/2021",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d59"
+  },
+  "": 172,
+  "Streaming Service": "Disney+",
+  "Date": "8/2021",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d5a"
+  },
+  "": 173,
+  "Streaming Service": "Disney+",
+  "Date": "9/2021",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d5b"
+  },
+  "": 174,
+  "Streaming Service": "Disney+",
+  "Date": "10/2021",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d5c"
+  },
+  "": 175,
+  "Streaming Service": "Disney+",
+  "Date": "11/2021",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d5d"
+  },
+  "": 176,
+  "Streaming Service": "Disney+",
+  "Date": "12/2021",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d5e"
+  },
+  "": 177,
+  "Streaming Service": "Disney+",
+  "Date": "1/2022",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d5f"
+  },
+  "": 178,
+  "Streaming Service": "Disney+",
+  "Date": "2/2022",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d60"
+  },
+  "": 179,
+  "Streaming Service": "Disney+",
+  "Date": "3/2022",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d61"
+  },
+  "": 180,
+  "Streaming Service": "Disney+",
+  "Date": "4/2022",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d62"
+  },
+  "": 181,
+  "Streaming Service": "Disney+",
+  "Date": "5/2022",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d63"
+  },
+  "": 182,
+  "Streaming Service": "Disney+",
+  "Date": "6/2022",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d64"
+  },
+  "": 183,
+  "Streaming Service": "Disney+",
+  "Date": "7/2022",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d65"
+  },
+  "": 184,
+  "Streaming Service": "Disney+",
+  "Date": "8/2022",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d66"
+  },
+  "": 185,
+  "Streaming Service": "Disney+",
+  "Date": "9/2022",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d67"
+  },
+  "": 186,
+  "Streaming Service": "Disney+",
+  "Date": "10/2022",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d68"
+  },
+  "": 187,
+  "Streaming Service": "Disney+",
+  "Date": "11/2022",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d69"
+  },
+  "": 188,
+  "Streaming Service": "Disney+",
+  "Date": "12/2022",
+  "Subscription Price": 10.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d6a"
+  },
+  "": 189,
+  "Streaming Service": "Disney+",
+  "Date": "1/2023",
+  "Subscription Price": 10.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d6b"
+  },
+  "": 190,
+  "Streaming Service": "Disney+",
+  "Date": "2/2023",
+  "Subscription Price": 10.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d6c"
+  },
+  "": 191,
+  "Streaming Service": "Disney+",
+  "Date": "3/2023",
+  "Subscription Price": 10.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d6d"
+  },
+  "": 192,
+  "Streaming Service": "Disney+",
+  "Date": "4/2023",
+  "Subscription Price": 10.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d6e"
+  },
+  "": 193,
+  "Streaming Service": "Disney+",
+  "Date": "5/2023",
+  "Subscription Price": 10.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d6f"
+  },
+  "": 194,
+  "Streaming Service": "Disney+",
+  "Date": "6/2023",
+  "Subscription Price": 10.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d70"
+  },
+  "": 195,
+  "Streaming Service": "Disney+",
+  "Date": "7/2023",
+  "Subscription Price": 10.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d71"
+  },
+  "": 196,
+  "Streaming Service": "Disney+",
+  "Date": "8/2023",
+  "Subscription Price": 10.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d72"
+  },
+  "": 197,
+  "Streaming Service": "Disney+",
+  "Date": "9/2023",
+  "Subscription Price": 10.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d73"
+  },
+  "": 198,
+  "Streaming Service": "Disney+",
+  "Date": "10/2023",
+  "Subscription Price": 13.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d74"
+  },
+  "": 199,
+  "Streaming Service": "Disney+",
+  "Date": "11/2023",
+  "Subscription Price": 13.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d75"
+  },
+  "": 200,
+  "Streaming Service": "Disney+",
+  "Date": "12/2023",
+  "Subscription Price": 13.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d76"
+  },
+  "": 201,
+  "Streaming Service": "Disney+",
+  "Date": "1/2024",
+  "Subscription Price": 13.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d77"
+  },
+  "": 202,
+  "Streaming Service": "HBO Max",
+  "Date": "5/2020",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d78"
+  },
+  "": 203,
+  "Streaming Service": "HBO Max",
+  "Date": "6/2020",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d79"
+  },
+  "": 204,
+  "Streaming Service": "HBO Max",
+  "Date": "7/2020",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d7a"
+  },
+  "": 205,
+  "Streaming Service": "HBO Max",
+  "Date": "8/2020",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d7b"
+  },
+  "": 206,
+  "Streaming Service": "HBO Max",
+  "Date": "9/2020",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d7c"
+  },
+  "": 207,
+  "Streaming Service": "HBO Max",
+  "Date": "10/2020",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d7d"
+  },
+  "": 208,
+  "Streaming Service": "HBO Max",
+  "Date": "11/2020",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d7e"
+  },
+  "": 209,
+  "Streaming Service": "HBO Max",
+  "Date": "12/2020",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d7f"
+  },
+  "": 210,
+  "Streaming Service": "HBO Max",
+  "Date": "1/2021",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d80"
+  },
+  "": 211,
+  "Streaming Service": "HBO Max",
+  "Date": "2/2021",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d81"
+  },
+  "": 212,
+  "Streaming Service": "HBO Max",
+  "Date": "3/2021",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d82"
+  },
+  "": 213,
+  "Streaming Service": "HBO Max",
+  "Date": "4/2021",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d83"
+  },
+  "": 214,
+  "Streaming Service": "HBO Max",
+  "Date": "5/2021",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d84"
+  },
+  "": 215,
+  "Streaming Service": "HBO Max",
+  "Date": "6/2021",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d85"
+  },
+  "": 216,
+  "Streaming Service": "HBO Max",
+  "Date": "7/2021",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d86"
+  },
+  "": 217,
+  "Streaming Service": "HBO Max",
+  "Date": "8/2021",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d87"
+  },
+  "": 218,
+  "Streaming Service": "HBO Max",
+  "Date": "9/2021",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d88"
+  },
+  "": 219,
+  "Streaming Service": "HBO Max",
+  "Date": "10/2021",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d89"
+  },
+  "": 220,
+  "Streaming Service": "HBO Max",
+  "Date": "11/2021",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d8a"
+  },
+  "": 221,
+  "Streaming Service": "HBO Max",
+  "Date": "12/2021",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d8b"
+  },
+  "": 222,
+  "Streaming Service": "HBO Max",
+  "Date": "1/2022",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d8c"
+  },
+  "": 223,
+  "Streaming Service": "HBO Max",
+  "Date": "2/2022",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d8d"
+  },
+  "": 224,
+  "Streaming Service": "HBO Max",
+  "Date": "3/2022",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d8e"
+  },
+  "": 225,
+  "Streaming Service": "HBO Max",
+  "Date": "4/2022",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d8f"
+  },
+  "": 226,
+  "Streaming Service": "HBO Max",
+  "Date": "5/2022",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d90"
+  },
+  "": 227,
+  "Streaming Service": "HBO Max",
+  "Date": "6/2022",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d91"
+  },
+  "": 228,
+  "Streaming Service": "HBO Max",
+  "Date": "7/2022",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d92"
+  },
+  "": 229,
+  "Streaming Service": "HBO Max",
+  "Date": "8/2022",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d93"
+  },
+  "": 230,
+  "Streaming Service": "HBO Max",
+  "Date": "9/2022",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d94"
+  },
+  "": 231,
+  "Streaming Service": "HBO Max",
+  "Date": "10/2022",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d95"
+  },
+  "": 232,
+  "Streaming Service": "HBO Max",
+  "Date": "11/2022",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d96"
+  },
+  "": 233,
+  "Streaming Service": "HBO Max",
+  "Date": "12/2022",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d97"
+  },
+  "": 234,
+  "Streaming Service": "HBO Max",
+  "Date": "1/2023",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d98"
+  },
+  "": 235,
+  "Streaming Service": "HBO Max",
+  "Date": "2/2023",
+  "Subscription Price": 15.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d99"
+  },
+  "": 236,
+  "Streaming Service": "HBO Max",
+  "Date": "3/2023",
+  "Subscription Price": 15.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d9a"
+  },
+  "": 237,
+  "Streaming Service": "HBO Max",
+  "Date": "4/2023",
+  "Subscription Price": 15.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d9b"
+  },
+  "": 238,
+  "Streaming Service": "HBO Max",
+  "Date": "5/2023",
+  "Subscription Price": 15.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d9c"
+  },
+  "": 239,
+  "Streaming Service": "HBO Max",
+  "Date": "6/2023",
+  "Subscription Price": 15.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d9d"
+  },
+  "": 240,
+  "Streaming Service": "HBO Max",
+  "Date": "7/2023",
+  "Subscription Price": 15.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d9e"
+  },
+  "": 241,
+  "Streaming Service": "HBO Max",
+  "Date": "8/2023",
+  "Subscription Price": 15.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229d9f"
+  },
+  "": 242,
+  "Streaming Service": "HBO Max",
+  "Date": "9/2023",
+  "Subscription Price": 15.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229da0"
+  },
+  "": 243,
+  "Streaming Service": "HBO Max",
+  "Date": "10/2023",
+  "Subscription Price": 15.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229da1"
+  },
+  "": 244,
+  "Streaming Service": "HBO Max",
+  "Date": "11/2023",
+  "Subscription Price": 15.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229da2"
+  },
+  "": 245,
+  "Streaming Service": "HBO Max",
+  "Date": "12/2023",
+  "Subscription Price": 15.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229da3"
+  },
+  "": 246,
+  "Streaming Service": "HBO Max",
+  "Date": "1/2024",
+  "Subscription Price": 15.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229da4"
+  },
+  "": 247,
+  "Streaming Service": "Hulu",
+  "Date": "10/2015",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229da5"
+  },
+  "": 248,
+  "Streaming Service": "Hulu",
+  "Date": "11/2015",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229da6"
+  },
+  "": 249,
+  "Streaming Service": "Hulu",
+  "Date": "12/2015",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229da7"
+  },
+  "": 250,
+  "Streaming Service": "Hulu",
+  "Date": "1/2016",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229da8"
+  },
+  "": 251,
+  "Streaming Service": "Hulu",
+  "Date": "2/2016",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229da9"
+  },
+  "": 252,
+  "Streaming Service": "Hulu",
+  "Date": "3/2016",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229daa"
+  },
+  "": 253,
+  "Streaming Service": "Hulu",
+  "Date": "4/2016",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dab"
+  },
+  "": 254,
+  "Streaming Service": "Hulu",
+  "Date": "5/2016",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dac"
+  },
+  "": 255,
+  "Streaming Service": "Hulu",
+  "Date": "6/2016",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dad"
+  },
+  "": 256,
+  "Streaming Service": "Hulu",
+  "Date": "7/2016",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dae"
+  },
+  "": 257,
+  "Streaming Service": "Hulu",
+  "Date": "8/2016",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229daf"
+  },
+  "": 258,
+  "Streaming Service": "Hulu",
+  "Date": "9/2016",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229db0"
+  },
+  "": 259,
+  "Streaming Service": "Hulu",
+  "Date": "10/2016",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229db1"
+  },
+  "": 260,
+  "Streaming Service": "Hulu",
+  "Date": "11/2016",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229db2"
+  },
+  "": 261,
+  "Streaming Service": "Hulu",
+  "Date": "12/2016",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229db3"
+  },
+  "": 262,
+  "Streaming Service": "Hulu",
+  "Date": "1/2017",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229db4"
+  },
+  "": 263,
+  "Streaming Service": "Hulu",
+  "Date": "2/2017",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229db5"
+  },
+  "": 264,
+  "Streaming Service": "Hulu",
+  "Date": "3/2017",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229db6"
+  },
+  "": 265,
+  "Streaming Service": "Hulu",
+  "Date": "4/2017",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229db7"
+  },
+  "": 266,
+  "Streaming Service": "Hulu",
+  "Date": "5/2017",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229db8"
+  },
+  "": 267,
+  "Streaming Service": "Hulu",
+  "Date": "6/2017",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229db9"
+  },
+  "": 268,
+  "Streaming Service": "Hulu",
+  "Date": "7/2017",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dba"
+  },
+  "": 269,
+  "Streaming Service": "Hulu",
+  "Date": "8/2017",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dbb"
+  },
+  "": 270,
+  "Streaming Service": "Hulu",
+  "Date": "9/2017",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dbc"
+  },
+  "": 271,
+  "Streaming Service": "Hulu",
+  "Date": "10/2017",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dbd"
+  },
+  "": 272,
+  "Streaming Service": "Hulu",
+  "Date": "11/2017",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dbe"
+  },
+  "": 273,
+  "Streaming Service": "Hulu",
+  "Date": "12/2017",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dbf"
+  },
+  "": 274,
+  "Streaming Service": "Hulu",
+  "Date": "1/2018",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dc0"
+  },
+  "": 275,
+  "Streaming Service": "Hulu",
+  "Date": "2/2018",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dc1"
+  },
+  "": 276,
+  "Streaming Service": "Hulu",
+  "Date": "3/2018",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dc2"
+  },
+  "": 277,
+  "Streaming Service": "Hulu",
+  "Date": "4/2018",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dc3"
+  },
+  "": 278,
+  "Streaming Service": "Hulu",
+  "Date": "5/2018",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dc4"
+  },
+  "": 279,
+  "Streaming Service": "Hulu",
+  "Date": "6/2018",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dc5"
+  },
+  "": 280,
+  "Streaming Service": "Hulu",
+  "Date": "7/2018",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dc6"
+  },
+  "": 281,
+  "Streaming Service": "Hulu",
+  "Date": "8/2018",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dc7"
+  },
+  "": 282,
+  "Streaming Service": "Hulu",
+  "Date": "9/2018",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dc8"
+  },
+  "": 283,
+  "Streaming Service": "Hulu",
+  "Date": "10/2018",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dc9"
+  },
+  "": 284,
+  "Streaming Service": "Hulu",
+  "Date": "11/2018",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dca"
+  },
+  "": 285,
+  "Streaming Service": "Hulu",
+  "Date": "12/2018",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dcb"
+  },
+  "": 286,
+  "Streaming Service": "Hulu",
+  "Date": "1/2019",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dcc"
+  },
+  "": 287,
+  "Streaming Service": "Hulu",
+  "Date": "2/2019",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dcd"
+  },
+  "": 288,
+  "Streaming Service": "Hulu",
+  "Date": "3/2019",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dce"
+  },
+  "": 289,
+  "Streaming Service": "Hulu",
+  "Date": "4/2019",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dcf"
+  },
+  "": 290,
+  "Streaming Service": "Hulu",
+  "Date": "5/2019",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dd0"
+  },
+  "": 291,
+  "Streaming Service": "Hulu",
+  "Date": "6/2019",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dd1"
+  },
+  "": 292,
+  "Streaming Service": "Hulu",
+  "Date": "7/2019",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dd2"
+  },
+  "": 293,
+  "Streaming Service": "Hulu",
+  "Date": "8/2019",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dd3"
+  },
+  "": 294,
+  "Streaming Service": "Hulu",
+  "Date": "9/2019",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dd4"
+  },
+  "": 295,
+  "Streaming Service": "Hulu",
+  "Date": "10/2019",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dd5"
+  },
+  "": 296,
+  "Streaming Service": "Hulu",
+  "Date": "11/2019",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dd6"
+  },
+  "": 297,
+  "Streaming Service": "Hulu",
+  "Date": "12/2019",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dd7"
+  },
+  "": 298,
+  "Streaming Service": "Hulu",
+  "Date": "1/2020",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dd8"
+  },
+  "": 299,
+  "Streaming Service": "Hulu",
+  "Date": "2/2020",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dd9"
+  },
+  "": 300,
+  "Streaming Service": "Hulu",
+  "Date": "3/2020",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dda"
+  },
+  "": 301,
+  "Streaming Service": "Hulu",
+  "Date": "4/2020",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ddb"
+  },
+  "": 302,
+  "Streaming Service": "Hulu",
+  "Date": "5/2020",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ddc"
+  },
+  "": 303,
+  "Streaming Service": "Hulu",
+  "Date": "6/2020",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ddd"
+  },
+  "": 304,
+  "Streaming Service": "Hulu",
+  "Date": "7/2020",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dde"
+  },
+  "": 305,
+  "Streaming Service": "Hulu",
+  "Date": "8/2020",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ddf"
+  },
+  "": 306,
+  "Streaming Service": "Hulu",
+  "Date": "9/2020",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229de0"
+  },
+  "": 307,
+  "Streaming Service": "Hulu",
+  "Date": "10/2020",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229de1"
+  },
+  "": 308,
+  "Streaming Service": "Hulu",
+  "Date": "11/2020",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229de2"
+  },
+  "": 309,
+  "Streaming Service": "Hulu",
+  "Date": "12/2020",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229de3"
+  },
+  "": 310,
+  "Streaming Service": "Hulu",
+  "Date": "1/2021",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229de4"
+  },
+  "": 311,
+  "Streaming Service": "Hulu",
+  "Date": "2/2021",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229de5"
+  },
+  "": 312,
+  "Streaming Service": "Hulu",
+  "Date": "3/2021",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229de6"
+  },
+  "": 313,
+  "Streaming Service": "Hulu",
+  "Date": "4/2021",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229de7"
+  },
+  "": 314,
+  "Streaming Service": "Hulu",
+  "Date": "5/2021",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229de8"
+  },
+  "": 315,
+  "Streaming Service": "Hulu",
+  "Date": "6/2021",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229de9"
+  },
+  "": 316,
+  "Streaming Service": "Hulu",
+  "Date": "7/2021",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dea"
+  },
+  "": 317,
+  "Streaming Service": "Hulu",
+  "Date": "8/2021",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229deb"
+  },
+  "": 318,
+  "Streaming Service": "Hulu",
+  "Date": "9/2021",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dec"
+  },
+  "": 319,
+  "Streaming Service": "Hulu",
+  "Date": "10/2021",
+  "Subscription Price": 12.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ded"
+  },
+  "": 320,
+  "Streaming Service": "Hulu",
+  "Date": "11/2021",
+  "Subscription Price": 12.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dee"
+  },
+  "": 321,
+  "Streaming Service": "Hulu",
+  "Date": "12/2021",
+  "Subscription Price": 12.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229def"
+  },
+  "": 322,
+  "Streaming Service": "Hulu",
+  "Date": "1/2022",
+  "Subscription Price": 12.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229df0"
+  },
+  "": 323,
+  "Streaming Service": "Hulu",
+  "Date": "2/2022",
+  "Subscription Price": 12.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229df1"
+  },
+  "": 324,
+  "Streaming Service": "Hulu",
+  "Date": "3/2022",
+  "Subscription Price": 12.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229df2"
+  },
+  "": 325,
+  "Streaming Service": "Hulu",
+  "Date": "4/2022",
+  "Subscription Price": 12.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229df3"
+  },
+  "": 326,
+  "Streaming Service": "Hulu",
+  "Date": "5/2022",
+  "Subscription Price": 12.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229df4"
+  },
+  "": 327,
+  "Streaming Service": "Hulu",
+  "Date": "6/2022",
+  "Subscription Price": 12.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229df5"
+  },
+  "": 328,
+  "Streaming Service": "Hulu",
+  "Date": "7/2022",
+  "Subscription Price": 12.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229df6"
+  },
+  "": 329,
+  "Streaming Service": "Hulu",
+  "Date": "8/2022",
+  "Subscription Price": 12.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229df7"
+  },
+  "": 330,
+  "Streaming Service": "Hulu",
+  "Date": "9/2022",
+  "Subscription Price": 12.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229df8"
+  },
+  "": 331,
+  "Streaming Service": "Hulu",
+  "Date": "10/2022",
+  "Subscription Price": 12.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229df9"
+  },
+  "": 332,
+  "Streaming Service": "Hulu",
+  "Date": "11/2022",
+  "Subscription Price": 12.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dfa"
+  },
+  "": 333,
+  "Streaming Service": "Hulu",
+  "Date": "12/2022",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dfb"
+  },
+  "": 334,
+  "Streaming Service": "Hulu",
+  "Date": "1/2023",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dfc"
+  },
+  "": 335,
+  "Streaming Service": "Hulu",
+  "Date": "2/2023",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dfd"
+  },
+  "": 336,
+  "Streaming Service": "Hulu",
+  "Date": "3/2023",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dfe"
+  },
+  "": 337,
+  "Streaming Service": "Hulu",
+  "Date": "4/2023",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229dff"
+  },
+  "": 338,
+  "Streaming Service": "Hulu",
+  "Date": "5/2023",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e00"
+  },
+  "": 339,
+  "Streaming Service": "Hulu",
+  "Date": "6/2023",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e01"
+  },
+  "": 340,
+  "Streaming Service": "Hulu",
+  "Date": "7/2023",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e02"
+  },
+  "": 341,
+  "Streaming Service": "Hulu",
+  "Date": "8/2023",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e03"
+  },
+  "": 342,
+  "Streaming Service": "Hulu",
+  "Date": "9/2023",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e04"
+  },
+  "": 343,
+  "Streaming Service": "Hulu",
+  "Date": "10/2023",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e05"
+  },
+  "": 344,
+  "Streaming Service": "Hulu",
+  "Date": "11/2023",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e06"
+  },
+  "": 345,
+  "Streaming Service": "Hulu",
+  "Date": "12/2023",
+  "Subscription Price": 14.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e07"
+  },
+  "": 346,
+  "Streaming Service": "Hulu",
+  "Date": "1/2024",
+  "Subscription Price": 17.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e08"
+  },
+  "": 347,
+  "Streaming Service": "Paramount+",
+  "Date": "10/2014",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e09"
+  },
+  "": 348,
+  "Streaming Service": "Paramount+",
+  "Date": "11/2014",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e0a"
+  },
+  "": 349,
+  "Streaming Service": "Paramount+",
+  "Date": "12/2014",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e0b"
+  },
+  "": 350,
+  "Streaming Service": "Paramount+",
+  "Date": "1/2015",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e0c"
+  },
+  "": 351,
+  "Streaming Service": "Paramount+",
+  "Date": "2/2015",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e0d"
+  },
+  "": 352,
+  "Streaming Service": "Paramount+",
+  "Date": "3/2015",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e0e"
+  },
+  "": 353,
+  "Streaming Service": "Paramount+",
+  "Date": "4/2015",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e0f"
+  },
+  "": 354,
+  "Streaming Service": "Paramount+",
+  "Date": "5/2015",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e10"
+  },
+  "": 355,
+  "Streaming Service": "Paramount+",
+  "Date": "6/2015",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e11"
+  },
+  "": 356,
+  "Streaming Service": "Paramount+",
+  "Date": "7/2015",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e12"
+  },
+  "": 357,
+  "Streaming Service": "Paramount+",
+  "Date": "8/2015",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e13"
+  },
+  "": 358,
+  "Streaming Service": "Paramount+",
+  "Date": "9/2015",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e14"
+  },
+  "": 359,
+  "Streaming Service": "Paramount+",
+  "Date": "10/2015",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e15"
+  },
+  "": 360,
+  "Streaming Service": "Paramount+",
+  "Date": "11/2015",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e16"
+  },
+  "": 361,
+  "Streaming Service": "Paramount+",
+  "Date": "12/2015",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e17"
+  },
+  "": 362,
+  "Streaming Service": "Paramount+",
+  "Date": "1/2016",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e18"
+  },
+  "": 363,
+  "Streaming Service": "Paramount+",
+  "Date": "2/2016",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e19"
+  },
+  "": 364,
+  "Streaming Service": "Paramount+",
+  "Date": "3/2016",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e1a"
+  },
+  "": 365,
+  "Streaming Service": "Paramount+",
+  "Date": "4/2016",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e1b"
+  },
+  "": 366,
+  "Streaming Service": "Paramount+",
+  "Date": "5/2016",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e1c"
+  },
+  "": 367,
+  "Streaming Service": "Paramount+",
+  "Date": "6/2016",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e1d"
+  },
+  "": 368,
+  "Streaming Service": "Paramount+",
+  "Date": "7/2016",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e1e"
+  },
+  "": 369,
+  "Streaming Service": "Paramount+",
+  "Date": "8/2016",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e1f"
+  },
+  "": 370,
+  "Streaming Service": "Paramount+",
+  "Date": "9/2016",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e20"
+  },
+  "": 371,
+  "Streaming Service": "Paramount+",
+  "Date": "10/2016",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e21"
+  },
+  "": 372,
+  "Streaming Service": "Paramount+",
+  "Date": "11/2016",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e22"
+  },
+  "": 373,
+  "Streaming Service": "Paramount+",
+  "Date": "12/2016",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e23"
+  },
+  "": 374,
+  "Streaming Service": "Paramount+",
+  "Date": "1/2017",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e24"
+  },
+  "": 375,
+  "Streaming Service": "Paramount+",
+  "Date": "2/2017",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e25"
+  },
+  "": 376,
+  "Streaming Service": "Paramount+",
+  "Date": "3/2017",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e26"
+  },
+  "": 377,
+  "Streaming Service": "Paramount+",
+  "Date": "4/2017",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e27"
+  },
+  "": 378,
+  "Streaming Service": "Paramount+",
+  "Date": "5/2017",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e28"
+  },
+  "": 379,
+  "Streaming Service": "Paramount+",
+  "Date": "6/2017",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e29"
+  },
+  "": 380,
+  "Streaming Service": "Paramount+",
+  "Date": "7/2017",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e2a"
+  },
+  "": 381,
+  "Streaming Service": "Paramount+",
+  "Date": "8/2017",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e2b"
+  },
+  "": 382,
+  "Streaming Service": "Paramount+",
+  "Date": "9/2017",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e2c"
+  },
+  "": 383,
+  "Streaming Service": "Paramount+",
+  "Date": "10/2017",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e2d"
+  },
+  "": 384,
+  "Streaming Service": "Paramount+",
+  "Date": "11/2017",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e2e"
+  },
+  "": 385,
+  "Streaming Service": "Paramount+",
+  "Date": "12/2017",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e2f"
+  },
+  "": 386,
+  "Streaming Service": "Paramount+",
+  "Date": "1/2018",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e30"
+  },
+  "": 387,
+  "Streaming Service": "Paramount+",
+  "Date": "2/2018",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e31"
+  },
+  "": 388,
+  "Streaming Service": "Paramount+",
+  "Date": "3/2018",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e32"
+  },
+  "": 389,
+  "Streaming Service": "Paramount+",
+  "Date": "4/2018",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e33"
+  },
+  "": 390,
+  "Streaming Service": "Paramount+",
+  "Date": "5/2018",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e34"
+  },
+  "": 391,
+  "Streaming Service": "Paramount+",
+  "Date": "6/2018",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e35"
+  },
+  "": 392,
+  "Streaming Service": "Paramount+",
+  "Date": "7/2018",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e36"
+  },
+  "": 393,
+  "Streaming Service": "Paramount+",
+  "Date": "8/2018",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e37"
+  },
+  "": 394,
+  "Streaming Service": "Paramount+",
+  "Date": "9/2018",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e38"
+  },
+  "": 395,
+  "Streaming Service": "Paramount+",
+  "Date": "10/2018",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e39"
+  },
+  "": 396,
+  "Streaming Service": "Paramount+",
+  "Date": "11/2018",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e3a"
+  },
+  "": 397,
+  "Streaming Service": "Paramount+",
+  "Date": "12/2018",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e3b"
+  },
+  "": 398,
+  "Streaming Service": "Paramount+",
+  "Date": "1/2019",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e3c"
+  },
+  "": 399,
+  "Streaming Service": "Paramount+",
+  "Date": "2/2019",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e3d"
+  },
+  "": 400,
+  "Streaming Service": "Paramount+",
+  "Date": "3/2019",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e3e"
+  },
+  "": 401,
+  "Streaming Service": "Paramount+",
+  "Date": "4/2019",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e3f"
+  },
+  "": 402,
+  "Streaming Service": "Paramount+",
+  "Date": "5/2019",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e40"
+  },
+  "": 403,
+  "Streaming Service": "Paramount+",
+  "Date": "6/2019",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e41"
+  },
+  "": 404,
+  "Streaming Service": "Paramount+",
+  "Date": "7/2019",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e42"
+  },
+  "": 405,
+  "Streaming Service": "Paramount+",
+  "Date": "8/2019",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e43"
+  },
+  "": 406,
+  "Streaming Service": "Paramount+",
+  "Date": "9/2019",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e44"
+  },
+  "": 407,
+  "Streaming Service": "Paramount+",
+  "Date": "10/2019",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e45"
+  },
+  "": 408,
+  "Streaming Service": "Paramount+",
+  "Date": "11/2019",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e46"
+  },
+  "": 409,
+  "Streaming Service": "Paramount+",
+  "Date": "12/2019",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e47"
+  },
+  "": 410,
+  "Streaming Service": "Paramount+",
+  "Date": "1/2020",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e48"
+  },
+  "": 411,
+  "Streaming Service": "Paramount+",
+  "Date": "2/2020",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e49"
+  },
+  "": 412,
+  "Streaming Service": "Paramount+",
+  "Date": "3/2020",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e4a"
+  },
+  "": 413,
+  "Streaming Service": "Paramount+",
+  "Date": "4/2020",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e4b"
+  },
+  "": 414,
+  "Streaming Service": "Paramount+",
+  "Date": "5/2020",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e4c"
+  },
+  "": 415,
+  "Streaming Service": "Paramount+",
+  "Date": "6/2020",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e4d"
+  },
+  "": 416,
+  "Streaming Service": "Paramount+",
+  "Date": "7/2020",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e4e"
+  },
+  "": 417,
+  "Streaming Service": "Paramount+",
+  "Date": "8/2020",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e4f"
+  },
+  "": 418,
+  "Streaming Service": "Paramount+",
+  "Date": "9/2020",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e50"
+  },
+  "": 419,
+  "Streaming Service": "Paramount+",
+  "Date": "10/2020",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e51"
+  },
+  "": 420,
+  "Streaming Service": "Paramount+",
+  "Date": "11/2020",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e52"
+  },
+  "": 421,
+  "Streaming Service": "Paramount+",
+  "Date": "12/2020",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e53"
+  },
+  "": 422,
+  "Streaming Service": "Paramount+",
+  "Date": "1/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e54"
+  },
+  "": 423,
+  "Streaming Service": "Paramount+",
+  "Date": "2/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e55"
+  },
+  "": 424,
+  "Streaming Service": "Paramount+",
+  "Date": "3/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e56"
+  },
+  "": 425,
+  "Streaming Service": "Paramount+",
+  "Date": "4/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e57"
+  },
+  "": 426,
+  "Streaming Service": "Paramount+",
+  "Date": "5/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e58"
+  },
+  "": 427,
+  "Streaming Service": "Paramount+",
+  "Date": "6/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e59"
+  },
+  "": 428,
+  "Streaming Service": "Paramount+",
+  "Date": "7/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e5a"
+  },
+  "": 429,
+  "Streaming Service": "Paramount+",
+  "Date": "8/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e5b"
+  },
+  "": 430,
+  "Streaming Service": "Paramount+",
+  "Date": "9/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e5c"
+  },
+  "": 431,
+  "Streaming Service": "Paramount+",
+  "Date": "10/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e5d"
+  },
+  "": 432,
+  "Streaming Service": "Paramount+",
+  "Date": "11/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e5e"
+  },
+  "": 433,
+  "Streaming Service": "Paramount+",
+  "Date": "12/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e5f"
+  },
+  "": 434,
+  "Streaming Service": "Paramount+",
+  "Date": "1/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e60"
+  },
+  "": 435,
+  "Streaming Service": "Paramount+",
+  "Date": "2/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e61"
+  },
+  "": 436,
+  "Streaming Service": "Paramount+",
+  "Date": "3/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e62"
+  },
+  "": 437,
+  "Streaming Service": "Paramount+",
+  "Date": "4/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e63"
+  },
+  "": 438,
+  "Streaming Service": "Paramount+",
+  "Date": "5/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e64"
+  },
+  "": 439,
+  "Streaming Service": "Paramount+",
+  "Date": "6/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e65"
+  },
+  "": 440,
+  "Streaming Service": "Paramount+",
+  "Date": "7/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e66"
+  },
+  "": 441,
+  "Streaming Service": "Paramount+",
+  "Date": "8/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e67"
+  },
+  "": 442,
+  "Streaming Service": "Paramount+",
+  "Date": "9/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e68"
+  },
+  "": 443,
+  "Streaming Service": "Paramount+",
+  "Date": "10/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e69"
+  },
+  "": 444,
+  "Streaming Service": "Paramount+",
+  "Date": "11/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e6a"
+  },
+  "": 445,
+  "Streaming Service": "Paramount+",
+  "Date": "12/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e6b"
+  },
+  "": 446,
+  "Streaming Service": "Paramount+",
+  "Date": "1/2023",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e6c"
+  },
+  "": 447,
+  "Streaming Service": "Paramount+",
+  "Date": "2/2023",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e6d"
+  },
+  "": 448,
+  "Streaming Service": "Paramount+",
+  "Date": "3/2023",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e6e"
+  },
+  "": 449,
+  "Streaming Service": "Paramount+",
+  "Date": "4/2023",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e6f"
+  },
+  "": 450,
+  "Streaming Service": "Paramount+",
+  "Date": "5/2023",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e70"
+  },
+  "": 451,
+  "Streaming Service": "Paramount+",
+  "Date": "6/2023",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e71"
+  },
+  "": 452,
+  "Streaming Service": "Paramount+",
+  "Date": "7/2023",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e72"
+  },
+  "": 453,
+  "Streaming Service": "Paramount+",
+  "Date": "8/2023",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e73"
+  },
+  "": 454,
+  "Streaming Service": "Paramount+",
+  "Date": "9/2023",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e74"
+  },
+  "": 455,
+  "Streaming Service": "Paramount+",
+  "Date": "10/2023",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e75"
+  },
+  "": 456,
+  "Streaming Service": "Paramount+",
+  "Date": "11/2023",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e76"
+  },
+  "": 457,
+  "Streaming Service": "Paramount+",
+  "Date": "12/2023",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e77"
+  },
+  "": 458,
+  "Streaming Service": "Paramount+",
+  "Date": "1/2024",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e78"
+  },
+  "": 459,
+  "Streaming Service": "Prime Video",
+  "Date": "4/2016",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e79"
+  },
+  "": 460,
+  "Streaming Service": "Prime Video",
+  "Date": "5/2016",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e7a"
+  },
+  "": 461,
+  "Streaming Service": "Prime Video",
+  "Date": "6/2016",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e7b"
+  },
+  "": 462,
+  "Streaming Service": "Prime Video",
+  "Date": "7/2016",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e7c"
+  },
+  "": 463,
+  "Streaming Service": "Prime Video",
+  "Date": "8/2016",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e7d"
+  },
+  "": 464,
+  "Streaming Service": "Prime Video",
+  "Date": "9/2016",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e7e"
+  },
+  "": 465,
+  "Streaming Service": "Prime Video",
+  "Date": "10/2016",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e7f"
+  },
+  "": 466,
+  "Streaming Service": "Prime Video",
+  "Date": "11/2016",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e80"
+  },
+  "": 467,
+  "Streaming Service": "Prime Video",
+  "Date": "12/2016",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e81"
+  },
+  "": 468,
+  "Streaming Service": "Prime Video",
+  "Date": "1/2017",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e82"
+  },
+  "": 469,
+  "Streaming Service": "Prime Video",
+  "Date": "2/2017",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e83"
+  },
+  "": 470,
+  "Streaming Service": "Prime Video",
+  "Date": "3/2017",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e84"
+  },
+  "": 471,
+  "Streaming Service": "Prime Video",
+  "Date": "4/2017",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e85"
+  },
+  "": 472,
+  "Streaming Service": "Prime Video",
+  "Date": "5/2017",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e86"
+  },
+  "": 473,
+  "Streaming Service": "Prime Video",
+  "Date": "6/2017",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e87"
+  },
+  "": 474,
+  "Streaming Service": "Prime Video",
+  "Date": "7/2017",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e88"
+  },
+  "": 475,
+  "Streaming Service": "Prime Video",
+  "Date": "8/2017",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e89"
+  },
+  "": 476,
+  "Streaming Service": "Prime Video",
+  "Date": "9/2017",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e8a"
+  },
+  "": 477,
+  "Streaming Service": "Prime Video",
+  "Date": "10/2017",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e8b"
+  },
+  "": 478,
+  "Streaming Service": "Prime Video",
+  "Date": "11/2017",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e8c"
+  },
+  "": 479,
+  "Streaming Service": "Prime Video",
+  "Date": "12/2017",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e8d"
+  },
+  "": 480,
+  "Streaming Service": "Prime Video",
+  "Date": "1/2018",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e8e"
+  },
+  "": 481,
+  "Streaming Service": "Prime Video",
+  "Date": "2/2018",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e8f"
+  },
+  "": 482,
+  "Streaming Service": "Prime Video",
+  "Date": "3/2018",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e90"
+  },
+  "": 483,
+  "Streaming Service": "Prime Video",
+  "Date": "4/2018",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e91"
+  },
+  "": 484,
+  "Streaming Service": "Prime Video",
+  "Date": "5/2018",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e92"
+  },
+  "": 485,
+  "Streaming Service": "Prime Video",
+  "Date": "6/2018",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e93"
+  },
+  "": 486,
+  "Streaming Service": "Prime Video",
+  "Date": "7/2018",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e94"
+  },
+  "": 487,
+  "Streaming Service": "Prime Video",
+  "Date": "8/2018",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e95"
+  },
+  "": 488,
+  "Streaming Service": "Prime Video",
+  "Date": "9/2018",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e96"
+  },
+  "": 489,
+  "Streaming Service": "Prime Video",
+  "Date": "10/2018",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e97"
+  },
+  "": 490,
+  "Streaming Service": "Prime Video",
+  "Date": "11/2018",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e98"
+  },
+  "": 491,
+  "Streaming Service": "Prime Video",
+  "Date": "12/2018",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e99"
+  },
+  "": 492,
+  "Streaming Service": "Prime Video",
+  "Date": "1/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e9a"
+  },
+  "": 493,
+  "Streaming Service": "Prime Video",
+  "Date": "2/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e9b"
+  },
+  "": 494,
+  "Streaming Service": "Prime Video",
+  "Date": "3/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e9c"
+  },
+  "": 495,
+  "Streaming Service": "Prime Video",
+  "Date": "4/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e9d"
+  },
+  "": 496,
+  "Streaming Service": "Prime Video",
+  "Date": "5/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e9e"
+  },
+  "": 497,
+  "Streaming Service": "Prime Video",
+  "Date": "6/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229e9f"
+  },
+  "": 498,
+  "Streaming Service": "Prime Video",
+  "Date": "7/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ea0"
+  },
+  "": 499,
+  "Streaming Service": "Prime Video",
+  "Date": "8/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ea1"
+  },
+  "": 500,
+  "Streaming Service": "Prime Video",
+  "Date": "9/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ea2"
+  },
+  "": 501,
+  "Streaming Service": "Prime Video",
+  "Date": "10/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ea3"
+  },
+  "": 502,
+  "Streaming Service": "Prime Video",
+  "Date": "11/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ea4"
+  },
+  "": 503,
+  "Streaming Service": "Prime Video",
+  "Date": "12/2019",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ea5"
+  },
+  "": 504,
+  "Streaming Service": "Prime Video",
+  "Date": "1/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ea6"
+  },
+  "": 505,
+  "Streaming Service": "Prime Video",
+  "Date": "2/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ea7"
+  },
+  "": 506,
+  "Streaming Service": "Prime Video",
+  "Date": "3/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ea8"
+  },
+  "": 507,
+  "Streaming Service": "Prime Video",
+  "Date": "4/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ea9"
+  },
+  "": 508,
+  "Streaming Service": "Prime Video",
+  "Date": "5/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eaa"
+  },
+  "": 509,
+  "Streaming Service": "Prime Video",
+  "Date": "6/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eab"
+  },
+  "": 510,
+  "Streaming Service": "Prime Video",
+  "Date": "7/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eac"
+  },
+  "": 511,
+  "Streaming Service": "Prime Video",
+  "Date": "8/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ead"
+  },
+  "": 512,
+  "Streaming Service": "Prime Video",
+  "Date": "9/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eae"
+  },
+  "": 513,
+  "Streaming Service": "Prime Video",
+  "Date": "10/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eaf"
+  },
+  "": 514,
+  "Streaming Service": "Prime Video",
+  "Date": "11/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eb0"
+  },
+  "": 515,
+  "Streaming Service": "Prime Video",
+  "Date": "12/2020",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eb1"
+  },
+  "": 516,
+  "Streaming Service": "Prime Video",
+  "Date": "1/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eb2"
+  },
+  "": 517,
+  "Streaming Service": "Prime Video",
+  "Date": "2/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eb3"
+  },
+  "": 518,
+  "Streaming Service": "Prime Video",
+  "Date": "3/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eb4"
+  },
+  "": 519,
+  "Streaming Service": "Prime Video",
+  "Date": "4/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eb5"
+  },
+  "": 520,
+  "Streaming Service": "Prime Video",
+  "Date": "5/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eb6"
+  },
+  "": 521,
+  "Streaming Service": "Prime Video",
+  "Date": "6/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eb7"
+  },
+  "": 522,
+  "Streaming Service": "Prime Video",
+  "Date": "7/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eb8"
+  },
+  "": 523,
+  "Streaming Service": "Prime Video",
+  "Date": "8/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eb9"
+  },
+  "": 524,
+  "Streaming Service": "Prime Video",
+  "Date": "9/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eba"
+  },
+  "": 525,
+  "Streaming Service": "Prime Video",
+  "Date": "10/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ebb"
+  },
+  "": 526,
+  "Streaming Service": "Prime Video",
+  "Date": "11/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ebc"
+  },
+  "": 527,
+  "Streaming Service": "Prime Video",
+  "Date": "12/2021",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ebd"
+  },
+  "": 528,
+  "Streaming Service": "Prime Video",
+  "Date": "1/2022",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ebe"
+  },
+  "": 529,
+  "Streaming Service": "Prime Video",
+  "Date": "2/2022",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ebf"
+  },
+  "": 530,
+  "Streaming Service": "Prime Video",
+  "Date": "3/2022",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ec0"
+  },
+  "": 531,
+  "Streaming Service": "Prime Video",
+  "Date": "4/2022",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ec1"
+  },
+  "": 532,
+  "Streaming Service": "Prime Video",
+  "Date": "5/2022",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ec2"
+  },
+  "": 533,
+  "Streaming Service": "Prime Video",
+  "Date": "6/2022",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ec3"
+  },
+  "": 534,
+  "Streaming Service": "Prime Video",
+  "Date": "7/2022",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ec4"
+  },
+  "": 535,
+  "Streaming Service": "Prime Video",
+  "Date": "8/2022",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ec5"
+  },
+  "": 536,
+  "Streaming Service": "Prime Video",
+  "Date": "9/2022",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ec6"
+  },
+  "": 537,
+  "Streaming Service": "Prime Video",
+  "Date": "10/2022",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ec7"
+  },
+  "": 538,
+  "Streaming Service": "Prime Video",
+  "Date": "11/2022",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ec8"
+  },
+  "": 539,
+  "Streaming Service": "Prime Video",
+  "Date": "12/2022",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ec9"
+  },
+  "": 540,
+  "Streaming Service": "Prime Video",
+  "Date": "1/2023",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eca"
+  },
+  "": 541,
+  "Streaming Service": "Prime Video",
+  "Date": "2/2023",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ecb"
+  },
+  "": 542,
+  "Streaming Service": "Prime Video",
+  "Date": "3/2023",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ecc"
+  },
+  "": 543,
+  "Streaming Service": "Prime Video",
+  "Date": "4/2023",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ecd"
+  },
+  "": 544,
+  "Streaming Service": "Prime Video",
+  "Date": "5/2023",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ece"
+  },
+  "": 545,
+  "Streaming Service": "Prime Video",
+  "Date": "6/2023",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ecf"
+  },
+  "": 546,
+  "Streaming Service": "Prime Video",
+  "Date": "7/2023",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ed0"
+  },
+  "": 547,
+  "Streaming Service": "Prime Video",
+  "Date": "8/2023",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ed1"
+  },
+  "": 548,
+  "Streaming Service": "Prime Video",
+  "Date": "9/2023",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ed2"
+  },
+  "": 549,
+  "Streaming Service": "Prime Video",
+  "Date": "10/2023",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ed3"
+  },
+  "": 550,
+  "Streaming Service": "Prime Video",
+  "Date": "11/2023",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ed4"
+  },
+  "": 551,
+  "Streaming Service": "Prime Video",
+  "Date": "12/2023",
+  "Subscription Price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ed5"
+  },
+  "": 552,
+  "Streaming Service": "Prime Video",
+  "Date": "1/2024",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ed6"
+  },
+  "": 553,
+  "Streaming Service": "Apple TV+",
+  "Date": "11/2019",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ed7"
+  },
+  "": 554,
+  "Streaming Service": "Apple TV+",
+  "Date": "12/2019",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ed8"
+  },
+  "": 555,
+  "Streaming Service": "Apple TV+",
+  "Date": "1/2020",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ed9"
+  },
+  "": 556,
+  "Streaming Service": "Apple TV+",
+  "Date": "2/2020",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eda"
+  },
+  "": 557,
+  "Streaming Service": "Apple TV+",
+  "Date": "3/2020",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229edb"
+  },
+  "": 558,
+  "Streaming Service": "Apple TV+",
+  "Date": "4/2020",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229edc"
+  },
+  "": 559,
+  "Streaming Service": "Apple TV+",
+  "Date": "5/2020",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229edd"
+  },
+  "": 560,
+  "Streaming Service": "Apple TV+",
+  "Date": "6/2020",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ede"
+  },
+  "": 561,
+  "Streaming Service": "Apple TV+",
+  "Date": "7/2020",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229edf"
+  },
+  "": 562,
+  "Streaming Service": "Apple TV+",
+  "Date": "8/2020",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ee0"
+  },
+  "": 563,
+  "Streaming Service": "Apple TV+",
+  "Date": "9/2020",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ee1"
+  },
+  "": 564,
+  "Streaming Service": "Apple TV+",
+  "Date": "10/2020",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ee2"
+  },
+  "": 565,
+  "Streaming Service": "Apple TV+",
+  "Date": "11/2020",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ee3"
+  },
+  "": 566,
+  "Streaming Service": "Apple TV+",
+  "Date": "12/2020",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ee4"
+  },
+  "": 567,
+  "Streaming Service": "Apple TV+",
+  "Date": "1/2021",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ee5"
+  },
+  "": 568,
+  "Streaming Service": "Apple TV+",
+  "Date": "2/2021",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ee6"
+  },
+  "": 569,
+  "Streaming Service": "Apple TV+",
+  "Date": "3/2021",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ee7"
+  },
+  "": 570,
+  "Streaming Service": "Apple TV+",
+  "Date": "4/2021",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ee8"
+  },
+  "": 571,
+  "Streaming Service": "Apple TV+",
+  "Date": "5/2021",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ee9"
+  },
+  "": 572,
+  "Streaming Service": "Apple TV+",
+  "Date": "6/2021",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eea"
+  },
+  "": 573,
+  "Streaming Service": "Apple TV+",
+  "Date": "7/2021",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eeb"
+  },
+  "": 574,
+  "Streaming Service": "Apple TV+",
+  "Date": "8/2021",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eec"
+  },
+  "": 575,
+  "Streaming Service": "Apple TV+",
+  "Date": "9/2021",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eed"
+  },
+  "": 576,
+  "Streaming Service": "Apple TV+",
+  "Date": "10/2021",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eee"
+  },
+  "": 577,
+  "Streaming Service": "Apple TV+",
+  "Date": "11/2021",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eef"
+  },
+  "": 578,
+  "Streaming Service": "Apple TV+",
+  "Date": "12/2021",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ef0"
+  },
+  "": 579,
+  "Streaming Service": "Apple TV+",
+  "Date": "1/2022",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ef1"
+  },
+  "": 580,
+  "Streaming Service": "Apple TV+",
+  "Date": "2/2022",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ef2"
+  },
+  "": 581,
+  "Streaming Service": "Apple TV+",
+  "Date": "3/2022",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ef3"
+  },
+  "": 582,
+  "Streaming Service": "Apple TV+",
+  "Date": "4/2022",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ef4"
+  },
+  "": 583,
+  "Streaming Service": "Apple TV+",
+  "Date": "5/2022",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ef5"
+  },
+  "": 584,
+  "Streaming Service": "Apple TV+",
+  "Date": "6/2022",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ef6"
+  },
+  "": 585,
+  "Streaming Service": "Apple TV+",
+  "Date": "7/2022",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ef7"
+  },
+  "": 586,
+  "Streaming Service": "Apple TV+",
+  "Date": "8/2022",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ef8"
+  },
+  "": 587,
+  "Streaming Service": "Apple TV+",
+  "Date": "9/2022",
+  "Subscription Price": 4.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229ef9"
+  },
+  "": 588,
+  "Streaming Service": "Apple TV+",
+  "Date": "10/2022",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229efa"
+  },
+  "": 589,
+  "Streaming Service": "Apple TV+",
+  "Date": "11/2022",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229efb"
+  },
+  "": 590,
+  "Streaming Service": "Apple TV+",
+  "Date": "12/2022",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229efc"
+  },
+  "": 591,
+  "Streaming Service": "Apple TV+",
+  "Date": "1/2023",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229efd"
+  },
+  "": 592,
+  "Streaming Service": "Apple TV+",
+  "Date": "2/2023",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229efe"
+  },
+  "": 593,
+  "Streaming Service": "Apple TV+",
+  "Date": "3/2023",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229eff"
+  },
+  "": 594,
+  "Streaming Service": "Apple TV+",
+  "Date": "4/2023",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f00"
+  },
+  "": 595,
+  "Streaming Service": "Apple TV+",
+  "Date": "5/2023",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f01"
+  },
+  "": 596,
+  "Streaming Service": "Apple TV+",
+  "Date": "6/2023",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f02"
+  },
+  "": 597,
+  "Streaming Service": "Apple TV+",
+  "Date": "7/2023",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f03"
+  },
+  "": 598,
+  "Streaming Service": "Apple TV+",
+  "Date": "8/2023",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f04"
+  },
+  "": 599,
+  "Streaming Service": "Apple TV+",
+  "Date": "9/2023",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f05"
+  },
+  "": 600,
+  "Streaming Service": "Apple TV+",
+  "Date": "10/2023",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f06"
+  },
+  "": 601,
+  "Streaming Service": "Apple TV+",
+  "Date": "11/2023",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f07"
+  },
+  "": 602,
+  "Streaming Service": "Apple TV+",
+  "Date": "12/2023",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f08"
+  },
+  "": 603,
+  "Streaming Service": "Apple TV+",
+  "Date": "1/2024",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f09"
+  },
+  "": 604,
+  "Streaming Service": "Peacock",
+  "Date": "7/2020",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f0a"
+  },
+  "": 605,
+  "Streaming Service": "Peacock",
+  "Date": "8/2020",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f0b"
+  },
+  "": 606,
+  "Streaming Service": "Peacock",
+  "Date": "9/2020",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f0c"
+  },
+  "": 607,
+  "Streaming Service": "Peacock",
+  "Date": "10/2020",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f0d"
+  },
+  "": 608,
+  "Streaming Service": "Peacock",
+  "Date": "11/2020",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f0e"
+  },
+  "": 609,
+  "Streaming Service": "Peacock",
+  "Date": "12/2020",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f0f"
+  },
+  "": 610,
+  "Streaming Service": "Peacock",
+  "Date": "1/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f10"
+  },
+  "": 611,
+  "Streaming Service": "Peacock",
+  "Date": "2/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f11"
+  },
+  "": 612,
+  "Streaming Service": "Peacock",
+  "Date": "3/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f12"
+  },
+  "": 613,
+  "Streaming Service": "Peacock",
+  "Date": "4/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f13"
+  },
+  "": 614,
+  "Streaming Service": "Peacock",
+  "Date": "5/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f14"
+  },
+  "": 615,
+  "Streaming Service": "Peacock",
+  "Date": "6/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f15"
+  },
+  "": 616,
+  "Streaming Service": "Peacock",
+  "Date": "7/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f16"
+  },
+  "": 617,
+  "Streaming Service": "Peacock",
+  "Date": "8/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f17"
+  },
+  "": 618,
+  "Streaming Service": "Peacock",
+  "Date": "9/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f18"
+  },
+  "": 619,
+  "Streaming Service": "Peacock",
+  "Date": "10/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f19"
+  },
+  "": 620,
+  "Streaming Service": "Peacock",
+  "Date": "11/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f1a"
+  },
+  "": 621,
+  "Streaming Service": "Peacock",
+  "Date": "12/2021",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f1b"
+  },
+  "": 622,
+  "Streaming Service": "Peacock",
+  "Date": "1/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f1c"
+  },
+  "": 623,
+  "Streaming Service": "Peacock",
+  "Date": "2/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f1d"
+  },
+  "": 624,
+  "Streaming Service": "Peacock",
+  "Date": "3/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f1e"
+  },
+  "": 625,
+  "Streaming Service": "Peacock",
+  "Date": "4/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f1f"
+  },
+  "": 626,
+  "Streaming Service": "Peacock",
+  "Date": "5/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f20"
+  },
+  "": 627,
+  "Streaming Service": "Peacock",
+  "Date": "6/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f21"
+  },
+  "": 628,
+  "Streaming Service": "Peacock",
+  "Date": "7/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f22"
+  },
+  "": 629,
+  "Streaming Service": "Peacock",
+  "Date": "8/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f23"
+  },
+  "": 630,
+  "Streaming Service": "Peacock",
+  "Date": "9/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f24"
+  },
+  "": 631,
+  "Streaming Service": "Peacock",
+  "Date": "10/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f25"
+  },
+  "": 632,
+  "Streaming Service": "Peacock",
+  "Date": "11/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f26"
+  },
+  "": 633,
+  "Streaming Service": "Peacock",
+  "Date": "12/2022",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f27"
+  },
+  "": 634,
+  "Streaming Service": "Peacock",
+  "Date": "1/2023",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f28"
+  },
+  "": 635,
+  "Streaming Service": "Peacock",
+  "Date": "2/2023",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f29"
+  },
+  "": 636,
+  "Streaming Service": "Peacock",
+  "Date": "3/2023",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f2a"
+  },
+  "": 637,
+  "Streaming Service": "Peacock",
+  "Date": "4/2023",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f2b"
+  },
+  "": 638,
+  "Streaming Service": "Peacock",
+  "Date": "5/2023",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f2c"
+  },
+  "": 639,
+  "Streaming Service": "Peacock",
+  "Date": "6/2023",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f2d"
+  },
+  "": 640,
+  "Streaming Service": "Peacock",
+  "Date": "7/2023",
+  "Subscription Price": 9.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f2e"
+  },
+  "": 641,
+  "Streaming Service": "Peacock",
+  "Date": "8/2023",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f2f"
+  },
+  "": 642,
+  "Streaming Service": "Peacock",
+  "Date": "9/2023",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f30"
+  },
+  "": 643,
+  "Streaming Service": "Peacock",
+  "Date": "10/2023",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f31"
+  },
+  "": 644,
+  "Streaming Service": "Peacock",
+  "Date": "11/2023",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f32"
+  },
+  "": 645,
+  "Streaming Service": "Peacock",
+  "Date": "12/2023",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f33"
+  },
+  "": 646,
+  "Streaming Service": "Peacock",
+  "Date": "1/2024",
+  "Subscription Price": 11.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f34"
+  },
+  "": 647,
+  "Streaming Service": "Shudder",
+  "Date": "10/2016",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f35"
+  },
+  "": 648,
+  "Streaming Service": "Shudder",
+  "Date": "11/2016",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f36"
+  },
+  "": 649,
+  "Streaming Service": "Shudder",
+  "Date": "12/2016",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f37"
+  },
+  "": 650,
+  "Streaming Service": "Shudder",
+  "Date": "1/2017",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f38"
+  },
+  "": 651,
+  "Streaming Service": "Shudder",
+  "Date": "2/2017",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f39"
+  },
+  "": 652,
+  "Streaming Service": "Shudder",
+  "Date": "3/2017",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f3a"
+  },
+  "": 653,
+  "Streaming Service": "Shudder",
+  "Date": "4/2017",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f3b"
+  },
+  "": 654,
+  "Streaming Service": "Shudder",
+  "Date": "5/2017",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f3c"
+  },
+  "": 655,
+  "Streaming Service": "Shudder",
+  "Date": "6/2017",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f3d"
+  },
+  "": 656,
+  "Streaming Service": "Shudder",
+  "Date": "7/2017",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f3e"
+  },
+  "": 657,
+  "Streaming Service": "Shudder",
+  "Date": "8/2017",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f3f"
+  },
+  "": 658,
+  "Streaming Service": "Shudder",
+  "Date": "9/2017",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f40"
+  },
+  "": 659,
+  "Streaming Service": "Shudder",
+  "Date": "10/2017",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f41"
+  },
+  "": 660,
+  "Streaming Service": "Shudder",
+  "Date": "11/2017",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f42"
+  },
+  "": 661,
+  "Streaming Service": "Shudder",
+  "Date": "12/2017",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f43"
+  },
+  "": 662,
+  "Streaming Service": "Shudder",
+  "Date": "1/2018",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f44"
+  },
+  "": 663,
+  "Streaming Service": "Shudder",
+  "Date": "2/2018",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f45"
+  },
+  "": 664,
+  "Streaming Service": "Shudder",
+  "Date": "3/2018",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f46"
+  },
+  "": 665,
+  "Streaming Service": "Shudder",
+  "Date": "4/2018",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f47"
+  },
+  "": 666,
+  "Streaming Service": "Shudder",
+  "Date": "5/2018",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f48"
+  },
+  "": 667,
+  "Streaming Service": "Shudder",
+  "Date": "6/2018",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f49"
+  },
+  "": 668,
+  "Streaming Service": "Shudder",
+  "Date": "7/2018",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f4a"
+  },
+  "": 669,
+  "Streaming Service": "Shudder",
+  "Date": "8/2018",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f4b"
+  },
+  "": 670,
+  "Streaming Service": "Shudder",
+  "Date": "9/2018",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f4c"
+  },
+  "": 671,
+  "Streaming Service": "Shudder",
+  "Date": "10/2018",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f4d"
+  },
+  "": 672,
+  "Streaming Service": "Shudder",
+  "Date": "11/2018",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f4e"
+  },
+  "": 673,
+  "Streaming Service": "Shudder",
+  "Date": "12/2018",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f4f"
+  },
+  "": 674,
+  "Streaming Service": "Shudder",
+  "Date": "1/2019",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f50"
+  },
+  "": 675,
+  "Streaming Service": "Shudder",
+  "Date": "2/2019",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f51"
+  },
+  "": 676,
+  "Streaming Service": "Shudder",
+  "Date": "3/2019",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f52"
+  },
+  "": 677,
+  "Streaming Service": "Shudder",
+  "Date": "4/2019",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f53"
+  },
+  "": 678,
+  "Streaming Service": "Shudder",
+  "Date": "5/2019",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f54"
+  },
+  "": 679,
+  "Streaming Service": "Shudder",
+  "Date": "6/2019",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f55"
+  },
+  "": 680,
+  "Streaming Service": "Shudder",
+  "Date": "7/2019",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f56"
+  },
+  "": 681,
+  "Streaming Service": "Shudder",
+  "Date": "8/2019",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f57"
+  },
+  "": 682,
+  "Streaming Service": "Shudder",
+  "Date": "9/2019",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f58"
+  },
+  "": 683,
+  "Streaming Service": "Shudder",
+  "Date": "10/2019",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f59"
+  },
+  "": 684,
+  "Streaming Service": "Shudder",
+  "Date": "11/2019",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f5a"
+  },
+  "": 685,
+  "Streaming Service": "Shudder",
+  "Date": "12/2019",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f5b"
+  },
+  "": 686,
+  "Streaming Service": "Shudder",
+  "Date": "1/2020",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f5c"
+  },
+  "": 687,
+  "Streaming Service": "Shudder",
+  "Date": "2/2020",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f5d"
+  },
+  "": 688,
+  "Streaming Service": "Shudder",
+  "Date": "3/2020",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f5e"
+  },
+  "": 689,
+  "Streaming Service": "Shudder",
+  "Date": "4/2020",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f5f"
+  },
+  "": 690,
+  "Streaming Service": "Shudder",
+  "Date": "5/2020",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f60"
+  },
+  "": 691,
+  "Streaming Service": "Shudder",
+  "Date": "6/2020",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f61"
+  },
+  "": 692,
+  "Streaming Service": "Shudder",
+  "Date": "7/2020",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f62"
+  },
+  "": 693,
+  "Streaming Service": "Shudder",
+  "Date": "8/2020",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f63"
+  },
+  "": 694,
+  "Streaming Service": "Shudder",
+  "Date": "9/2020",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f64"
+  },
+  "": 695,
+  "Streaming Service": "Shudder",
+  "Date": "10/2020",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f65"
+  },
+  "": 696,
+  "Streaming Service": "Shudder",
+  "Date": "11/2020",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f66"
+  },
+  "": 697,
+  "Streaming Service": "Shudder",
+  "Date": "12/2020",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f67"
+  },
+  "": 698,
+  "Streaming Service": "Shudder",
+  "Date": "1/2021",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f68"
+  },
+  "": 699,
+  "Streaming Service": "Shudder",
+  "Date": "2/2021",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f69"
+  },
+  "": 700,
+  "Streaming Service": "Shudder",
+  "Date": "3/2021",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f6a"
+  },
+  "": 701,
+  "Streaming Service": "Shudder",
+  "Date": "4/2021",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f6b"
+  },
+  "": 702,
+  "Streaming Service": "Shudder",
+  "Date": "5/2021",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f6c"
+  },
+  "": 703,
+  "Streaming Service": "Shudder",
+  "Date": "6/2021",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f6d"
+  },
+  "": 704,
+  "Streaming Service": "Shudder",
+  "Date": "7/2021",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f6e"
+  },
+  "": 705,
+  "Streaming Service": "Shudder",
+  "Date": "8/2021",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f6f"
+  },
+  "": 706,
+  "Streaming Service": "Shudder",
+  "Date": "9/2021",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f70"
+  },
+  "": 707,
+  "Streaming Service": "Shudder",
+  "Date": "10/2021",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f71"
+  },
+  "": 708,
+  "Streaming Service": "Shudder",
+  "Date": "11/2021",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f72"
+  },
+  "": 709,
+  "Streaming Service": "Shudder",
+  "Date": "12/2021",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f73"
+  },
+  "": 710,
+  "Streaming Service": "Shudder",
+  "Date": "1/2022",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f74"
+  },
+  "": 711,
+  "Streaming Service": "Shudder",
+  "Date": "2/2022",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f75"
+  },
+  "": 712,
+  "Streaming Service": "Shudder",
+  "Date": "3/2022",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f76"
+  },
+  "": 713,
+  "Streaming Service": "Shudder",
+  "Date": "4/2022",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f77"
+  },
+  "": 714,
+  "Streaming Service": "Shudder",
+  "Date": "5/2022",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f78"
+  },
+  "": 715,
+  "Streaming Service": "Shudder",
+  "Date": "6/2022",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f79"
+  },
+  "": 716,
+  "Streaming Service": "Shudder",
+  "Date": "7/2022",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f7a"
+  },
+  "": 717,
+  "Streaming Service": "Shudder",
+  "Date": "8/2022",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f7b"
+  },
+  "": 718,
+  "Streaming Service": "Shudder",
+  "Date": "9/2022",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f7c"
+  },
+  "": 719,
+  "Streaming Service": "Shudder",
+  "Date": "10/2022",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f7d"
+  },
+  "": 720,
+  "Streaming Service": "Shudder",
+  "Date": "11/2022",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f7e"
+  },
+  "": 721,
+  "Streaming Service": "Shudder",
+  "Date": "12/2022",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f7f"
+  },
+  "": 722,
+  "Streaming Service": "Shudder",
+  "Date": "1/2023",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f80"
+  },
+  "": 723,
+  "Streaming Service": "Shudder",
+  "Date": "2/2023",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f81"
+  },
+  "": 724,
+  "Streaming Service": "Shudder",
+  "Date": "3/2023",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f82"
+  },
+  "": 725,
+  "Streaming Service": "Shudder",
+  "Date": "4/2023",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f83"
+  },
+  "": 726,
+  "Streaming Service": "Shudder",
+  "Date": "5/2023",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f84"
+  },
+  "": 727,
+  "Streaming Service": "Shudder",
+  "Date": "6/2023",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f85"
+  },
+  "": 728,
+  "Streaming Service": "Shudder",
+  "Date": "7/2023",
+  "Subscription Price": 5.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f86"
+  },
+  "": 729,
+  "Streaming Service": "Shudder",
+  "Date": "8/2023",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f87"
+  },
+  "": 730,
+  "Streaming Service": "Shudder",
+  "Date": "9/2023",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f88"
+  },
+  "": 731,
+  "Streaming Service": "Shudder",
+  "Date": "10/2023",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f89"
+  },
+  "": 732,
+  "Streaming Service": "Shudder",
+  "Date": "11/2023",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f8a"
+  },
+  "": 733,
+  "Streaming Service": "Shudder",
+  "Date": "12/2023",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f8b"
+  },
+  "": 734,
+  "Streaming Service": "Shudder",
+  "Date": "1/2024",
+  "Subscription Price": 6.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f8c"
+  },
+  "": 735,
+  "Streaming Service": "Crunchyroll",
+  "Date": "8/2020",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f8d"
+  },
+  "": 736,
+  "Streaming Service": "Crunchyroll",
+  "Date": "9/2020",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f8e"
+  },
+  "": 737,
+  "Streaming Service": "Crunchyroll",
+  "Date": "10/2020",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f8f"
+  },
+  "": 738,
+  "Streaming Service": "Crunchyroll",
+  "Date": "11/2020",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f90"
+  },
+  "": 739,
+  "Streaming Service": "Crunchyroll",
+  "Date": "12/2020",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f91"
+  },
+  "": 740,
+  "Streaming Service": "Crunchyroll",
+  "Date": "1/2021",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f92"
+  },
+  "": 741,
+  "Streaming Service": "Crunchyroll",
+  "Date": "2/2021",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f93"
+  },
+  "": 742,
+  "Streaming Service": "Crunchyroll",
+  "Date": "3/2021",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f94"
+  },
+  "": 743,
+  "Streaming Service": "Crunchyroll",
+  "Date": "4/2021",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f95"
+  },
+  "": 744,
+  "Streaming Service": "Crunchyroll",
+  "Date": "5/2021",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f96"
+  },
+  "": 745,
+  "Streaming Service": "Crunchyroll",
+  "Date": "6/2021",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f97"
+  },
+  "": 746,
+  "Streaming Service": "Crunchyroll",
+  "Date": "7/2021",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f98"
+  },
+  "": 747,
+  "Streaming Service": "Crunchyroll",
+  "Date": "8/2021",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f99"
+  },
+  "": 748,
+  "Streaming Service": "Crunchyroll",
+  "Date": "9/2021",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f9a"
+  },
+  "": 749,
+  "Streaming Service": "Crunchyroll",
+  "Date": "10/2021",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f9b"
+  },
+  "": 750,
+  "Streaming Service": "Crunchyroll",
+  "Date": "11/2021",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f9c"
+  },
+  "": 751,
+  "Streaming Service": "Crunchyroll",
+  "Date": "12/2021",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f9d"
+  },
+  "": 752,
+  "Streaming Service": "Crunchyroll",
+  "Date": "1/2022",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f9e"
+  },
+  "": 753,
+  "Streaming Service": "Crunchyroll",
+  "Date": "2/2022",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229f9f"
+  },
+  "": 754,
+  "Streaming Service": "Crunchyroll",
+  "Date": "3/2022",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229fa0"
+  },
+  "": 755,
+  "Streaming Service": "Crunchyroll",
+  "Date": "4/2022",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229fa1"
+  },
+  "": 756,
+  "Streaming Service": "Crunchyroll",
+  "Date": "5/2022",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229fa2"
+  },
+  "": 757,
+  "Streaming Service": "Crunchyroll",
+  "Date": "6/2022",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229fa3"
+  },
+  "": 758,
+  "Streaming Service": "Crunchyroll",
+  "Date": "7/2022",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229fa4"
+  },
+  "": 759,
+  "Streaming Service": "Crunchyroll",
+  "Date": "8/2022",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229fa5"
+  },
+  "": 760,
+  "Streaming Service": "Crunchyroll",
+  "Date": "9/2022",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229fa6"
+  },
+  "": 761,
+  "Streaming Service": "Crunchyroll",
+  "Date": "10/2022",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229fa7"
+  },
+  "": 762,
+  "Streaming Service": "Crunchyroll",
+  "Date": "11/2022",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229fa8"
+  },
+  "": 763,
+  "Streaming Service": "Crunchyroll",
+  "Date": "12/2022",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229fa9"
+  },
+  "": 764,
+  "Streaming Service": "Crunchyroll",
+  "Date": "1/2023",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229faa"
+  },
+  "": 765,
+  "Streaming Service": "Crunchyroll",
+  "Date": "2/2023",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229fab"
+  },
+  "": 766,
+  "Streaming Service": "Crunchyroll",
+  "Date": "3/2023",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229fac"
+  },
+  "": 767,
+  "Streaming Service": "Crunchyroll",
+  "Date": "4/2023",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229fad"
+  },
+  "": 768,
+  "Streaming Service": "Crunchyroll",
+  "Date": "5/2023",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229fae"
+  },
+  "": 769,
+  "Streaming Service": "Crunchyroll",
+  "Date": "6/2023",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229faf"
+  },
+  "": 770,
+  "Streaming Service": "Crunchyroll",
+  "Date": "7/2023",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229fb0"
+  },
+  "": 771,
+  "Streaming Service": "Crunchyroll",
+  "Date": "8/2023",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229fb1"
+  },
+  "": 772,
+  "Streaming Service": "Crunchyroll",
+  "Date": "9/2023",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229fb2"
+  },
+  "": 773,
+  "Streaming Service": "Crunchyroll",
+  "Date": "10/2023",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229fb3"
+  },
+  "": 774,
+  "Streaming Service": "Crunchyroll",
+  "Date": "11/2023",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229fb4"
+  },
+  "": 775,
+  "Streaming Service": "Crunchyroll",
+  "Date": "12/2023",
+  "Subscription Price": 7.99
+},
+{
+  "_id": {
+    "$oid": "66e39d45e7f25283ee229fb5"
+  },
+  "": 776,
+  "Streaming Service": "Crunchyroll",
+  "Date": "1/2024",
+  "Subscription Price": 7.99
+}]
