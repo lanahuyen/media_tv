@@ -1,7 +1,3 @@
-Certainly! Here's a more detailed and extensive `README.md` that goes into greater depth about each aspect of the project:
-
----
-
 # Media Streaming Platforms Analysis and Visualization Project
 
 ## Overview
