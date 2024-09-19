@@ -1,40 +1,272 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Streaming Platforms Analysis</title>
-    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script> <!-- Include Vega-Embed -->
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> <!-- Include Plotly -->
+    <title>Media Subscription Dashboard</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        /* General Styles */
+        body {
+            font-family: 'Courier New', Courier, monospace;
+            background: url('https://plus.unsplash.com/premium_photo-1682125724182-1eadf9d1360d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cmV0cm8lMjB0dnxlbnwwfHwwfHx8MA%3D%3D') no-repeat center center fixed; /* Retro TV background */
+            background-size: cover;
+            color: #fff;
+            margin: 0;
+            padding: 20px;
+            overflow-x: hidden;
+        }
+
+        h1, h2 {
+            text-align: center;
+            background: rgba(0, 0, 0, 0.7);
+            padding: 10px;
+            border-radius: 10px;
+            font-family: 'Courier New', Courier, monospace;
+            color: #ffd700;
+            text-shadow: 2px 2px #000;
+        }
+
+        /* Form Styles */
+        form {
+            background: rgba(0, 0, 0, 0.7);
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px auto;
+            width: 80%;
+            max-width: 600px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+            border: 2px solid #ffd700;
+        }
+
+        label {
+            display: block;
+            margin-top: 10px;
+            font-weight: bold;
+            color: #ffd700;
+        }
+
+        select, input {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border-radius: 5px;
+            border: none;
+            box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.5);
+            font-family: 'Courier New', Courier, monospace;
+            color: #000;
+        }
+
+        button {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            background-color: #ff4c4c;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            margin-top: 20px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            font-family: 'Courier New', Courier, monospace;
+        }
+
+        button:hover {
+            background-color: #ff1c1c;
+        }
+
+        /* Chart and Movie Section Styles */
+        #chart {
+            margin: 20px auto;
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.8);
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+            max-width: 80%;
+            border: 2px solid #ffd700;
+        }
+
+        #movieResult {
+            text-align: center;
+            margin-top: 20px;
+            background: rgba(0, 0, 0, 0.7);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+            position: relative;
+            max-width: 400px;
+            margin: 20px auto;
+            border: 10px solid #333; /* TV frame border */
+        }
+
+        #moviePoster {
+            display: block;
+            max-width: 100%;
+            margin: 0 auto;
+            border-radius: 5px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
+        }
+
+        /* TV Screen Effect */
+        .tv-screen {
+            background: #111;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.8), 0 0 30px rgba(0, 0, 0, 0.8);
+            width: 100%;
+            position: relative;
+        }
+
+        .tv-screen::before {
+            content: "";
+            position: absolute;
+            top: 5%;
+            left: 5%;
+            right: 5%;
+            bottom: 5%;
+            border: 3px solid #666;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+            z-index: -1;
+        }
+
+        /* Knobs and Retro Elements */
+        .tv-knob {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            width: 30px;
+            height: 30px;
+            background: #333;
+            border-radius: 50%;
+            box-shadow: inset -3px -3px 5px rgba(0, 0, 0, 0.8);
+        }
+
+        .tv-knob::before {
+            content: '';
+            position: absolute;
+            width: 12px;
+            height: 12px;
+            background: #555;
+            border-radius: 50%;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
 </head>
 <body>
-    <h1>Streaming Platforms Analysis</h1>
+    <h1>Who's Doing What</h1>
     
-    <!-- Existing Interactive Genre Chart -->
-    <h2>Trends in Selected Genre Over Time</h2>
-    <div id="genre-chart"></div>
-    
-    <!-- New Section for IMDb Genre Distribution -->
-    <h2>IMDb Genre Distribution</h2>
-    <div id="imdb-genres-plot-container"></div>
-    
-    <script>
-        // JavaScript to fetch and render the Altair chart (Existing Code)
-        fetch('/get-plot/interactive-genres')
-            .then(response => response.json())
-            .then(chartSpec => {
-                // Use Vega-Embed to render the chart
-                vegaEmbed('#genre-chart', chartSpec);
-            })
-            .catch(error => console.error('Error loading the chart:', error));
+    <form id="filterForm">
+        <label for="gender">Select Gender:</label>
+        <select id="gender" name="gender">
+            <option value="All">All</option>
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+        </select>
 
-        // New JavaScript to fetch and render the IMDb Genres Plot (Plotly)
-        fetch('/get-plot/imdb-genres')
+        <label for="chart_type">Data:</label>
+        <select id="chart_type" name="chart_type">
+            <option value="subscription">Subscription Type</option>
+            <option value="monthly">Monthly Revenue</option>
+            <option value="device">Watching Device</option>
+        </select>
+
+        <button type="button" id="updateButton">Update</button>
+    </form>
+
+    <div id="chart"></div>
+
+    <h2>Find the Most Popular Movie</h2>
+    <form id="movieForm">
+        <label for="genre">Genre:</label>
+        <select id="genre" name="genre">
+            {% for genre in genres %}
+            <option value="{{ genre }}">{{ genre }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="year">Year:</label>
+        <input type="text" id="year" name="year" placeholder="Enter year">
+
+        <button type="button" id="mostPopularButton">Most Popular</button>
+    </form>
+
+    <div id="movieResult" class="tv-screen">
+        <div class="tv-knob"></div>
+        <h3 id="movieTitle"></h3>
+        <img id="moviePoster" src="" alt="Movie Poster">
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log("DOM fully loaded and parsed");
+            // Add event listener to the Update button
+            document.getElementById('updateButton').addEventListener('click', updateDashboard);
+            // Add event listener to the Most Popular button
+            document.getElementById('mostPopularButton').addEventListener('click', getMostPopularMovie);
+        });
+
+        function updateDashboard() {
+            console.log("Update button clicked");
+            var gender = document.getElementById('gender').value;
+            var chart_type = document.getElementById('chart_type').value;
+            console.log("Selected values:", gender, chart_type);
+
+            fetch('/update_data', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    gender: gender,
+                    chart_type: chart_type
+                }),
+            })
             .then(response => response.json())
             .then(data => {
-                Plotly.newPlot('imdb-genres-plot-container', data.data, data.layout);
+                console.log("Data received from server:", data);
+                if (data.error) {
+                    console.error("Error from server:", data.error);
+                    alert("Error: " + data.error);
+                } else {
+                    var graphJSON = JSON.parse(data.graphJSON);
+                    Plotly.newPlot('chart', graphJSON.data, graphJSON.layout);
+                }
             })
-            .catch(error => console.error('Error loading the IMDb genres plot:', error));
+            .catch(error => console.error('Error:', error));
+        }
+
+        function getMostPopularMovie() {
+            console.log("Most Popular button clicked");
+            var genre = document.getElementById('genre').value;
+            var year = document.getElementById('year').value;
+            console.log("Selected values for Most Popular:", genre, year);
+
+            fetch('/get_most_popular', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    genre: genre,
+                    year: year
+                }),
+            })
+            .then(response => response.json())
+            .then(data => {
+                console.log("Data received from server:", data);
+                if (data.error) {
+                    console.error("Error from server:", data.error);
+                    document.getElementById('movieTitle').innerText = "Error: " + data.error;
+                    document.getElementById('moviePoster').src = "";
+                } else {
+                    document.getElementById('movieTitle').innerText = data.title;
+                    document.getElementById('moviePoster').src = data.poster;
+                }
+            })
+            .catch(error => console.error('Error:', error));
+        }
     </script>
 </body>
 </html>

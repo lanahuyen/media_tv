@@ -1,101 +1,131 @@
-from flask import Flask, render_template, jsonify
+from flask import Flask, render_template, request, jsonify
+from flask_cors import CORS
 import pandas as pd
 import plotly.express as px
-import json
 import plotly
+import json
 
+# Create the Flask app instance
 app = Flask(__name__)
+CORS(app)  # Enable CORS if needed
 
 # Load datasets
-netflix_tv_df = pd.read_csv('data/cleaned_NetflixTVShowsMovies.csv')
+price_history_df = pd.read_csv('data/cleaned_AllServicesPriceHistory.csv')
 netflix_userbase_df = pd.read_csv('data/cleaned_NetflixUserbase.csv')
-price_history_df = pd.read_csv('data/all_services_price_history.csv')
-imdb_df = pd.read_csv('data/cleaned_IMDbMovies.csv')
 
-# Basic Data Processing
-# Convert relevant columns to lowercase for consistency if needed
-netflix_tv_df['Platform'] = netflix_tv_df['Platform'].str.lower()
+# Load and clean the IMDb movies dataset
+imdb_movies_df = pd.read_csv('data/cleaned_IMDbMovies.csv')
 
-# Convert date columns
-price_history_df['Date'] = pd.to_datetime(price_history_df['Date'], format='%m/%Y', errors='coerce')
-
-# Ensure 'Genre' column exists in the IMDb data
-if 'Genre' not in imdb_df.columns:
-    raise KeyError("The 'Genre' column is missing from the IMDb dataset")
+# Clean the "Year" column: Extract year as an integer, handle NaN values
+imdb_movies_df['Year'] = imdb_movies_df['Year'].astype(str).str.extract(r'(\d{4})')
+imdb_movies_df = imdb_movies_df.dropna(subset=['Year'])  # Drop rows where "Year" is NaN
+imdb_movies_df['Year'] = imdb_movies_df['Year'].astype(int)  # Convert "Year" to integer
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    # List of genres to use in the dropdown
+    genre_list = [
+        'Action', 'Adventure', 'Animation', 'Biography', 'Comedy', 'Crime', 
+        'Documentary', 'Drama', 'Family', 'Fantasy', 'Film-Noir', 'History', 
+        'Horror', 'Music', 'Musical', 'Mystery', 'Romance', 'Sci-Fi', 
+        'Sport', 'Thriller', 'War', 'Western'
+    ]
+    return render_template('index.html', genres=genre_list)
 
-@app.route('/get-plot/interactive-genres')
-def get_interactive_genres_plot():
-    # Example: Trends in Selected Genre Over Time (Altair chart)
-    # You need to replace this example with the actual implementation of your Altair chart
-    # Replace the following code with the actual logic used in your project to create the Altair chart spec
-    chart_spec = {
-        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-        "description": "A simple bar chart with embedded data.",
-        "data": {
-            "values": [
-                {"a": "A", "b": 28}, {"a": "B", "b": 55}, {"a": "C", "b": 43},
-                {"a": "D", "b": 91}, {"a": "E", "b": 81}, {"a": "F", "b": 53},
-                {"a": "G", "b": 19}, {"a": "H", "b": 87}, {"a": "I", "b": 52}
-            ]
-        },
-        "mark": "bar",
-        "encoding": {
-            "x": {"field": "a", "type": "nominal"},
-            "y": {"field": "b", "type": "quantitative"}
-        }
-    }
-    
-    return jsonify(chart_spec)
+@app.route('/update_data', methods=['POST'])
+def update_data():
+    try:
+        # Get filter criteria from the form
+        data = request.json
+        gender = data.get('gender', 'All')
+        chart_type = data.get('chart_type', 'subscription')  # Updated: Default to 'subscription'
 
-@app.route('/get-plot/imdb-genres')
-def get_imdb_genres_plot():
-    # Visualization: IMDb Genre Distribution
-    genre_counts = imdb_df['Genre'].str.split(',').explode().value_counts().reset_index()
-    genre_counts.columns = ['Genre', 'Count']
-    fig = px.bar(genre_counts, x='Genre', y='Count', title='Distribution of IMDb Genres')
-    
-    graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
-    return graphJSON
+        # Filter the Netflix user base data based on gender only
+        filtered_data = netflix_userbase_df
 
-@app.route('/get-plot/platform/<platform>')
-def get_platform_plot(platform):
-    # Visualization: IMDb Ratings by Genre for the Selected Platform
-    filtered_data = netflix_tv_df[netflix_tv_df['Platform'] == platform]
-    fig = px.bar(filtered_data, x='Genre', y='imdb_score', title=f'IMDb Ratings for {platform.capitalize()}')
+        if gender != 'All':
+            filtered_data = filtered_data[filtered_data['Gender'] == gender]
 
-    graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
-    return graphJSON
+        # Create the desired chart based on the chart type
+        if chart_type == 'subscription':
+            # Group and count the data for the bar chart
+            grouped_data = filtered_data.groupby(['Subscription Type', 'Gender']).size().reset_index(name='Count')
 
-@app.route('/get-plot/userbase')
-def get_userbase_plot():
-    # Visualization: Subscription Type Distribution
-    subscription_counts = netflix_userbase_df['Subscription Type'].value_counts().reset_index()
-    subscription_counts.columns = ['Subscription Type', 'Count']
-    fig = px.pie(subscription_counts, values='Count', names='Subscription Type', title='Subscription Type Distribution')
-    
-    graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
-    return graphJSON
+            # Create Plotly bar figure without extra details
+            if grouped_data.empty:
+                fig = px.bar(title='No data available for the selected criteria')
+            else:
+                fig = px.bar(grouped_data, x='Subscription Type', y='Count', color='Gender',
+                             title='Subscription Data by Gender')
+        
+        elif chart_type == 'monthly':
+            # Prepare data for the line chart (e.g., Monthly Revenue over Time)
+            if 'Join Date' in filtered_data.columns and 'Monthly Revenue' in filtered_data.columns:
+                filtered_data['Join Date'] = pd.to_datetime(filtered_data['Join Date'])
+                revenue_data = filtered_data.groupby(['Join Date', 'Subscription Type']).sum().reset_index()
 
-@app.route('/get-plot/revenue')
-def get_revenue_plot():
-    # Visualization: Total Monthly Revenue by Country
-    revenue_by_country = netflix_userbase_df.groupby('Country')['Monthly Revenue'].sum().reset_index()
-    fig = px.bar(revenue_by_country, x='Country', y='Monthly Revenue', title='Total Monthly Revenue by Country')
+                # Create Plotly line figure
+                if revenue_data.empty:
+                    fig = px.line(title='No data available for the selected criteria')
+                else:
+                    fig = px.line(revenue_data, x='Join Date', y='Monthly Revenue', color='Subscription Type',
+                                  title='Monthly Revenue Over Time')
+            else:
+                fig = px.line(title='Required columns are missing for the line chart')
 
-    graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
-    return graphJSON
+        elif chart_type == 'device':
+            # Prepare data for the pie chart (e.g., Device distribution)
+            if 'Device' in filtered_data.columns:
+                device_data = filtered_data.groupby('Device').size().reset_index(name='Count')
 
-@app.route('/get-plot/price-history')
-def get_price_history_plot():
-    # Visualization: Subscription Price History
-    fig = px.line(price_history_df, x='Date', y='Subscription Price', color='Streaming Service', title='Subscription Price History')
+                # Create Plotly pie figure
+                if device_data.empty:
+                    fig = px.pie(title='No data available for the selected criteria')
+                else:
+                    fig = px.pie(device_data, values='Count', names='Device', title='Device Distribution')
+            else:
+                fig = px.pie(title='Required columns are missing for the pie chart')
 
-    graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
-    return graphJSON
+        # Serialize the figure to JSON
+        graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
+
+        return jsonify({'graphJSON': graphJSON})
+
+    except Exception as e:
+        print("Error:", str(e))
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/get_most_popular', methods=['POST'])
+def get_most_popular():
+    try:
+        # Get filter criteria from the form
+        genre = request.json.get('genre')
+        year = request.json.get('year')
+
+        # Ensure year is an integer
+        year = int(year)
+
+        # Filter the IMDb movies data where the 'Genre' column contains the selected genre and the 'Year' matches
+        filtered_movies = imdb_movies_df[
+            (imdb_movies_df['Genre'].str.contains(genre, case=False, na=False)) & 
+            (imdb_movies_df['Year'] == year)
+        ]
+
+        # Find the movie with the highest Metascore
+        if not filtered_movies.empty:
+            most_popular = filtered_movies.loc[filtered_movies['Metascore'].idxmax()]
+            result = {
+                'title': most_popular['Title'],
+                'poster': most_popular['Poster']
+            }
+        else:
+            result = {'error': 'No movies found for the selected criteria.'}
+
+        return jsonify(result)
+
+    except Exception as e:
+        print("Error:", str(e))
+        return jsonify({'error': str(e)}), 500
 
 if __name__ == '__main__':
     app.run(debug=True)
